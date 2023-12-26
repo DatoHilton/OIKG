@@ -54,7 +54,7 @@ def spider_main():
     if not os.path.exists('./data/'):
         os.makedirs('./data/')
     all_data = []  # 创建一个列表，用于存储所有的数据
-    for page in range(1, 3):
+    for page in range(1, 2):
         try:
             luogu_url = f"https://www.luogu.com.cn/problem/list?page={page}"
             data = luogu_spider(luogu_url)
