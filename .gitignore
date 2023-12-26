@@ -1,0 +1,8 @@
+# 忽略 python 虚拟环境文件夹
+venv/
+
+# 忽略 IDEA 配置文件夹
+.idea/
+
+# 忽略 vscode 配置文件夹
+.vscode/
