@@ -12,11 +12,11 @@
 
 - **数据库**：Neo4j
 
-- **主要开发语言**：Python
+- **开发语言**：Python
 
 ### 快速开始
 
-1.启动Neo4j数据库：
+1.启动Neo4j数据库：打开命令提示符
 
 ```bash
 > neo4j.bat console
@@ -26,4 +26,4 @@
 
 3.图谱构建：执行`build_OIgraph.py`脚本
 
-4.查看图谱：图谱部署在浏览器http://localhost:7474/browser/
+4.查看图谱：图谱部署在浏览器 http://localhost:7474/browser/

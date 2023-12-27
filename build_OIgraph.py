@@ -1,15 +1,13 @@
-import os
 import json
 from py2neo import Graph, Node
 
 
 class OIgraph:
     def __init__(self):
-        cur_dir = os.path.dirname(os.path.abspath(__file__))  # 获取当前绝对路径的上层目录
-        self.data_path = os.path.join(cur_dir, 'data\\luogu.json')  # 获取json文件路径
         try:
+            print("正在连接Neo4j数据库...")
             self.g = Graph("http://localhost:7474", auth=("neo4j", "123456"))
-            print("Successfully connected to Neo4j!")
+            print("----------Neo4j数据库连接成功！----------")
         except Exception as e:
             print(f"Failed to connect to Neo4j: {e}")
 
@@ -19,20 +17,21 @@ class OIgraph:
 
         # 构建节点
         algorithms = []  # 算法（关键节点）
-        problems = []  # 题目
-        problem_infos = []
+        problems = []  # 题目（构建节点不需要，导出题目数据需要）
+        problem_infos = []  # 题目
+        algorithm_explains = []  # 算法解释
         sources = []  # 来源
         years = []  # 年份
         poses = []  # 省份
 
         # 构建边
         rels_algorithm_problem = []  # 算法-题目
-        # rels_algorithm_explain = []  # 算法-讲解
+        rels_algorithm_explain = []  # 算法-讲解
         rels_problem_source = []  # 题目-来源
         rels_problem_year = []  # 题目-年份
         rels_problem_pos = []  # 题目-省份
 
-        with open(self.data_path, 'r', encoding='utf-8') as file:
+        with open('data/luogu.json', 'r', encoding='utf-8') as file:
             for data in file:
                 problem_dict = {}
 
@@ -48,7 +47,6 @@ class OIgraph:
                 problem_dict['rate'] = data_json['rate']
 
                 algorithms += data_json['algorithm']
-                # 算法-题目
                 for algorithm in data_json['algorithm']:
                     rels_algorithm_problem.append([problem, algorithm])
 
@@ -66,8 +64,25 @@ class OIgraph:
 
                 problem_infos.append(problem_dict)
 
-        return set(algorithms), set(problems), set(sources), set(years), set(
-            poses), problem_infos, rels_algorithm_problem, rels_problem_source, rels_problem_year, rels_problem_pos
+        with open('data/algorithm.json', 'r', encoding='utf-8') as file:
+            explain = 0
+            for data in file:
+                explain_dict = {}
+                data_json = json.loads(data)
+
+                algorithm = data_json['algorithm']
+                for item in data_json['explains']:
+                    # name(自增), url, frequency是item的属性
+                    explain_dict['name'] = str(explain)
+                    explain += 1
+                    explain_dict['url'] = item.get('url', '')
+                    explain_dict['frequency'] = item.get('frequency', '')
+                    algorithm_explains.append(explain_dict)
+                    rels_algorithm_explain.append([algorithm, str(explain)])
+
+        return (set(algorithms), set(problems), set(sources), set(years), set(poses), problem_infos,
+                algorithm_explains, rels_algorithm_problem, rels_problem_source, rels_problem_year,
+                rels_problem_pos, rels_algorithm_explain)
 
     '''建立节点'''
 
@@ -86,12 +101,25 @@ class OIgraph:
             self.g.create(node)
         return
 
+    '''创建explains的节点'''
+
+    def create_explains_nodes(self, algorithm_explains):
+        for explain_dict in algorithm_explains:
+            node = Node("explain", name=explain_dict['name'], url=explain_dict['url'],
+                        frequncy=explain_dict['frequency'])
+            self.g.create(node)
+        return
+
     '''创建知识图谱实体节点类型schema，节点个数多，创建过程慢'''
 
     def create_graphNodes(self):
-        algorithms, problems, sources, years, poses, problem_infos, rels_algorithm_problem, rels_problem_source, rels_problem_year, rels_problem_pos = self.read_nodes()
+        print("正在创建OI-Graph...")
+        (algorithms, problems, sources, years, poses, problem_infos, algorithm_explains,
+         rels_algorithm_problem, rels_problem_source, rels_problem_year, rels_problem_pos,
+         rels_algorithm_explain) = self.read_nodes()
         self.create_node('algorithm', algorithms)
         self.create_problems_nodes(problem_infos)
+        self.create_explains_nodes(algorithm_explains)
         self.create_node('source', sources)
         self.create_node('year', years)
         self.create_node('pos', poses)
@@ -100,8 +128,11 @@ class OIgraph:
     '''创建实体关系边'''
 
     def create_graphRels(self):
-        algorithms, problems, sources, years, poses, problem_infos, rels_algorithm_problem, rels_problem_source, rels_problem_year, rels_problem_pos = self.read_nodes()
+        (algorithms, problems, sources, years, poses, problem_infos, algorithm_explains,
+         rels_algorithm_problem, rels_problem_source, rels_problem_year, rels_problem_pos,
+         rels_algorithm_explain) = self.read_nodes()
         self.create_relationship('problem', 'algorithm', rels_algorithm_problem, 'algorithm_problem', '算法-题目')
+        self.create_relationship('algorithm', 'explain', rels_algorithm_explain, 'algorithm_explain', '算法-讲解')
         self.create_relationship('problem', 'source', rels_problem_source, 'problem_source', '题目-来源')
         self.create_relationship('problem', 'year', rels_problem_year, 'problem_year', '题目-年份')
         self.create_relationship('problem', 'pos', rels_problem_pos, 'problem_pos', '题目-省份')
@@ -128,20 +159,19 @@ class OIgraph:
     '''导出数据'''
 
     def export_data(self):
-        algorithms, problems, sources, years, poses, problem_infos, rels_algorithm_problem, rels_problem_source, rels_problem_year, rels_problem_pos = self.read_nodes()
-        f_algorithm = open('dict/algorithm.txt', 'w+')
+        (algorithms, problems, sources, years, poses, problem_infos, algorithm_explains,
+         rels_algorithm_problem, rels_problem_source, rels_problem_year, rels_problem_pos,
+         rels_algorithm_explain) = self.read_nodes()
         f_problem = open('dict/problem.txt', 'w+')
         f_source = open('dict/source.txt', 'w+')
         f_year = open('dict/year.txt', 'w+')
         f_pos = open('dict/pos.txt', 'w+')
 
-        f_algorithm.write('\n'.join(list(algorithms)))
         f_problem.write('\n'.join(list(problems)))
         f_source.write('\n'.join(list(sources)))
         f_year.write('\n'.join(list(years)))
         f_pos.write('\n'.join(list(poses)))
 
-        f_algorithm.close()
         f_problem.close()
         f_source.close()
         f_year.close()
@@ -155,7 +185,8 @@ if __name__ == '__main__':
     handler.export_data()  # 输出数据，可以选择不执行
     handler.create_graphNodes()  # 创建节点
     handler.create_graphRels()  # 创建关系
-    print("Successfully built oi-gragh! Please check at http://localhost:7474/browser/")
+    print("----------OI-Gragh创建成功！----------")
+    print("请在浏览器中查看图谱：http://localhost:7474/browser/")
 
 '''快速清空数据库
 MATCH (n)
