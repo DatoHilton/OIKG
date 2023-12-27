@@ -2,7 +2,7 @@
 
 ### 项目概述
 
-待补充
+本项目为天津大学智能与计算学部2023年知识图谱课程大作业，选题为“开发一个OI（Olympiad in Informatics，信息学奥林匹克竞赛）的知识图谱及应用”，开发人员为[洪图](https://github.com/DatoHilton/)，[刘书任](https://github.com/Haoxi2002/)。
 
 ### 项目结构
 
@@ -39,3 +39,7 @@
 3.图谱构建：执行`build_OIgraph.py`脚本
 
 4.查看图谱：图谱部署在浏览器 http://localhost:7474/browser/
+
+### 效果展示
+
+待补充
