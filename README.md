@@ -22,8 +22,8 @@
 > neo4j.bat console
 ```
 
-3.数据爬取：执行`data_spider.py`脚本
+2.数据爬取：执行`data_spider.py`脚本
 
-4.图谱构建：执行`build_OIgraph.py`脚本
+3.图谱构建：执行`build_OIgraph.py`脚本
 
-5.查看图谱：图谱部署在浏览器http://localhost:7474/browser/
+4.查看图谱：图谱部署在浏览器http://localhost:7474/browser/
