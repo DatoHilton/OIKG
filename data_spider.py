@@ -1,5 +1,5 @@
 import urllib.request
-
+import time
 from selenium import webdriver
 import json
 import os
@@ -93,11 +93,12 @@ def wiki_spider():
 def spider_main():
     """爬取洛谷"""
     print("正在爬取洛谷...")
+    start_luogu = time.time()
     if not os.path.exists('./data/'):
         os.makedirs('./data/')
 
     luogu_page_cnt = 0  # 爬取洛谷的页数
-    for page in range(1, 2):
+    for page in range(1, 11):
         try:
             luogu_url = f"https://www.luogu.com.cn/problem/list?page={page}"
             data = luogu_spider(luogu_url)
@@ -111,7 +112,9 @@ def spider_main():
         except Exception as e:
             print(e)
 
-    print(f"----------洛谷爬取完成！爬取{luogu_page_cnt}页----------")
+    end_luogu = time.time()
+    luogu_time = end_luogu - start_luogu
+    print(f"----------洛谷爬取完成！爬取{luogu_page_cnt}页，用时{int(luogu_time)}秒。----------")
 
     """从luogu.json中生成algorithm.dict，用于爬取oi-wiki"""
     all_algorithms = set()
@@ -133,6 +136,7 @@ def spider_main():
 
     """爬取oi-wiki"""
     print("正在爬取oi-wiki...")
+    start_wiki = time.time()
     algorithm_dict_file = open('./dict/algorithm.txt', 'r', encoding='utf-8')
     algorithm_dict = algorithm_dict_file.readlines()
     algorithm_dict_file.close()
@@ -148,7 +152,9 @@ def spider_main():
                 if cnt >= 10:  # 算法词在网页出现的频繁度 超参数，可设置
                     explains.append({'url': website[0], 'name': website[1], 'frequency': cnt})
         all_data.append({'algorithm': algorithm, 'explains': explains})
-    print("----------oi-wiki爬取完成！----------")
+    end_wiki = time.time()
+    wiki_time = end_wiki - start_wiki
+    print(f"----------oi-wiki爬取完成！用时{int(wiki_time)}秒。----------")
 
     """将爬取信息写入algorithm.json中"""
     with open('data/algorithm.json', 'w', encoding='utf-8') as json_file:
@@ -157,4 +163,3 @@ def spider_main():
 
 
 spider_main()
-

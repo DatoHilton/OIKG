@@ -7,22 +7,23 @@
 ### 项目结构
 
 ```bash
-├─chatbot             # OI Chatbot所需脚本
-│  ├─classifier.py    # 根据问题，获取关键词，并分析问题类型
-│  ├─parser.py        # 根据问题类型和关键词，编写SQL语句
-│  └─search.py        # 执行SQL语句，并将输出梳理成自然语言
-├─data                # 建图所用数据，由爬虫得到
-│  ├─algorithm.json   # 根据洛谷爬得的算法，通过oi-wiki爬取算法讲解
-│  └─luogu.json       # 洛谷爬得数据
-├─dict                # 导出的数据（节点们）
-│  ├─algorithm.txt    # 算法名
-│  ├─pos.txt          # 省份
-│  ├─problem.txt      # 题目
-│  ├─source.txt       # 来源
-│  └─year.txt         # 年份
-├─build_OIgraph.py    # 建图脚本
-├─data_spider.py      # 爬虫脚本
-└─OI_Chatbot.py       # 对话机器人脚本
+├─chatbot               # OI Chatbot所需脚本
+│  ├─classifier.py      # 根据问题，获取关键词，并分析问题类型
+│  ├─parser.py          # 根据问题类型和关键词，编写SQL语句
+│  └─search.py          # 执行SQL语句，并将输出梳理成自然语言
+├─data                  # 建图所用数据，由爬虫得到
+│  ├─algorithm.json     # 根据洛谷爬得的算法，通过oi-wiki爬取算法讲解
+│  └─luogu.json         # 洛谷爬得数据
+├─dict                  # 导出的数据（节点们）
+│  ├─algorithm.txt      # 算法名
+│  ├─pos.txt            # 省份
+│  ├─problem_id.txt     # 题目id
+│  ├─problem_name.txt   # 题目名称
+│  ├─source.txt         # 来源
+│  └─year.txt           # 年份
+├─build_OIgraph.py      # 建图脚本
+├─data_spider.py        # 爬虫脚本
+└─OI_Chatbot.py         # 对话机器人脚本
 ```
 
 ### 依赖项
