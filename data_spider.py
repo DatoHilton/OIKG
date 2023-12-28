@@ -82,7 +82,8 @@ def wiki_spider():
             res.read().decode('utf-8').split("<div class=md-content data-md-component=content>")[1].split(
                 "</div></main>")[
                 0]
-        htmls.append([url, html.lower()])
+        name = html.split('<h1>')[1].split('</h1>')[0]
+        htmls.append([url, name, html.lower()])
     #     print(f"-----get htmls {cnt}/{len(urls)}-----")
     # print("-----get htmls finished-----")
 
@@ -140,9 +141,9 @@ def spider_main():
         algorithm_s = algorithm.split(',')
         for a in algorithm_s:  # 枚举一个算法可能的名字
             for website in res:
-                cnt = website[1].count(a.lower())
+                cnt = website[2].count(a.lower())
                 if cnt >= 10:  # 算法词在网页出现的频繁度 超参数，可设置
-                    explains.append({'url': website[0], 'frequency': cnt})
+                    explains.append({'url': website[0], 'name': website[1], 'frequency': cnt})
         all_data.append({'algorithm': algorithm, 'explains': explains})
     print("----------oi-wiki爬取完成！----------")
 
