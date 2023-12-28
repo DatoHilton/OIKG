@@ -40,11 +40,11 @@ class QuestionClassifier:
         self.wdtype_dict = self.build_wdtype_dict()
         # 问句疑问词
         self.algorithm_qwds = ['算法', '数据结构', '方法', '思路', '标答', '题解', '解析', '知识点']
-        self.problem_qwds = ['题目', '问题', '习题']
+        self.problem_qwds = ['题目', '问题', '习题', '例题']
         self.explain_qwds = ['解释', '讲解', '说明', '详细解答']
-        self.source_qwds = ['来源', '出处', '资料']
-        self.year_qwds = ['年份', '哪一年', '何年']
-        self.pos_qwds = ['省份', '地区', '所在地']
+        self.source_qwds = ['来源', '出处', '从哪儿来', '出现']
+        self.year_qwds = ['年份', '哪一年', '何年', '哪年', '年份']
+        self.pos_qwds = ['省份', '地区', '所在地', '哪个省', '地方']
         print('model init finished ......')
 
     def classify(self, _question):
@@ -64,6 +64,26 @@ class QuestionClassifier:
             question_type = 'problem_algorithm'
             question_types.append(question_type)
 
+        # 题目-来源
+        if self.check_words(self.source_qwds, _question) and ('problem' in types):
+            question_type = 'problem_source'
+            question_types.append(question_type)
+
+        # 题目-年份
+        if self.check_words(self.year_qwds, _question) and ('problem' in types):
+            question_type = 'problem_year'
+            question_types.append(question_type)
+
+        # 题目-地区
+        if self.check_words(self.pos_qwds, _question) and ('problem' in types):
+            question_type = 'problem_pos'
+            question_types.append(question_type)
+
+        # 算法-题目
+        if self.check_words(self.problem_qwds, _question) and ('algorithm' in types):
+            question_type = 'algorithm_problem'
+            question_types.append(question_type)
+
         _data['question_types'] = question_types
 
         return _data
@@ -72,6 +92,8 @@ class QuestionClassifier:
         region_wds = []
         problem_wds = []
         for pattern in self.region_words:
+            if pattern == '':
+                continue
             if 'algorithm' in self.wdtype_dict[pattern]:
                 for name in pattern.split(','):
                     similarity = fuzz.partial_ratio(_question.lower(), name.lower())
@@ -95,7 +117,8 @@ class QuestionClassifier:
             length = longest_common_substring_length(name, _question)
             if length > problem[1]:
                 problem = [name, length]
-        region_wds.append(problem[0])
+        if problem[1] != 0:
+            region_wds.append(problem[0])
         final_dict = {i: self.wdtype_dict.get(i) for i in region_wds}
 
         return final_dict

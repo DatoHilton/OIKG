@@ -20,6 +20,14 @@ class QuestionPaser:
             sql = []
             if question_type == 'problem_algorithm':
                 sql = self.sql_transfer(question_type, entity_dict.get('problem'))
+            elif question_type == 'algorithm_problem':
+                sql = self.sql_transfer(question_type, entity_dict.get('algorithm'))
+            elif question_type == 'problem_source':
+                sql = self.sql_transfer(question_type, entity_dict.get('problem'))
+            elif question_type == 'problem_year':
+                sql = self.sql_transfer(question_type, entity_dict.get('problem'))
+            elif question_type == 'problem_pos':
+                sql = self.sql_transfer(question_type, entity_dict.get('problem'))
 
             if sql:
                 sql_['sql'] = sql
@@ -36,5 +44,13 @@ class QuestionPaser:
         # 根据题目查找算法
         if question_type == 'problem_algorithm':
             sql = [f"MATCH (m:problem)-->(n:algorithm) WHERE m.name = '{i}' RETURN m.name, n.name" for i in entities]
+        elif question_type == 'algorithm_problem':
+            sql = [f"MATCH (n:problem)-->(m:algorithm) WHERE m.name = '{i}' RETURN m.name, n.name, n.id, n.url" for i in entities]
+        elif question_type == 'problem_source':
+            sql = [f"MATCH (m:problem)-->(n:source) WHERE m.name = '{i}' RETURN m.name, n.name" for i in entities]
+        elif question_type == 'problem_year':
+            sql = [f"MATCH (m:problem)-->(n:year) WHERE m.name = '{i}' RETURN m.name, n.name" for i in entities]
+        elif question_type == 'problem_pos':
+            sql = [f"MATCH (m:problem)-->(n:pos) WHERE m.name = '{i}' RETURN m.name, n.name" for i in entities]
 
         return sql
