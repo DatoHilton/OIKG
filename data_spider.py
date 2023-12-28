@@ -158,5 +158,3 @@ def spider_main():
 
 spider_main()
 
-
-{"algorithm": "二分", "explains": [{"url": "https://oi-wiki.org/dp/opt/slope/", "frequency": 11}, {"url": "https://oi-wiki.org/dp/opt/quadrangle/", "frequency": 13}]}
