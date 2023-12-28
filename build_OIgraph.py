@@ -39,31 +39,36 @@ class OIgraph:
                 # 读取数据
                 data_json = json.loads(data)
 
-                problem = data_json['name']
+                problem = data_json.get('name', '')
                 problems.append(problem)
                 # name, id, url, rate是problem的属性
-                problem_dict['name'] = data_json['name']
-                problem_dict['id'] = data_json['id']
-                problem_dict['url'] = data_json['url']
-                problem_dict['rate'] = data_json['rate']
+                problem_dict['name'] = problem
+                problem_dict['id'] = data_json.get('id', '')
+                problem_dict['url'] = data_json.get('url', '')
+                problem_dict['rate'] = data_json.get('rate', '')
 
-                algorithms += data_json['algorithm']
+                algorithms += data_json.get('algorithm', [])
                 for algorithm in data_json['algorithm']:
                     rels_algorithm_problem.append([problem, algorithm])
 
-                source = data_json['source']['source']
+                source = data_json['source'].get('source', '')
                 sources.append(source)
                 rels_problem_source.append([problem, source])
 
-                year = data_json['source']['year']
+                year = data_json['source'].get('year', '')
                 years.append(year)
                 rels_problem_year.append([problem, year])
 
-                pos = data_json['source']['pos']
+                pos = data_json['source'].get('pos', '')
                 poses.append(pos)
                 rels_problem_pos.append([problem, pos])
 
                 problem_infos.append(problem_dict)
+
+        # 去除结点空值
+        poses = [pos for pos in poses if pos]
+        years = [year for year in years if year]
+        sources = [source for source in sources if source]
 
         with open('data/algorithm.json', 'r', encoding='utf-8') as file:
             explain = 0
@@ -71,7 +76,7 @@ class OIgraph:
                 explain_dict = {}
                 data_json = json.loads(data)
 
-                algorithm = data_json['algorithm']
+                algorithm = data_json.get('algorithm', '')
                 for item in data_json['explains']:
                     # name(自增), url, frequency是item的属性
                     explain_dict['name'] = str(explain)

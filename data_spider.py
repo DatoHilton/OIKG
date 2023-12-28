@@ -97,7 +97,7 @@ def spider_main():
         os.makedirs('./data/')
 
     luogu_page_cnt = 0  # 爬取洛谷的页数
-    for page in range(1, 11):
+    for page in range(1, 2):
         try:
             luogu_url = f"https://www.luogu.com.cn/problem/list?page={page}"
             data = luogu_spider(luogu_url)
@@ -114,16 +114,19 @@ def spider_main():
     print(f"----------洛谷爬取完成！爬取{luogu_page_cnt}页----------")
 
     """从luogu.json中生成algorithm.dict，用于爬取oi-wiki"""
-    all_algorithms = []
+    all_algorithms = set()
     with open('data/luogu.json', 'r', encoding='utf-8') as file:
         for data in file:
             data_json = json.loads(data)
-            algorithm = data_json['algorithm']
-            for item in algorithm:
-                if item not in all_algorithms:  # 去重
-                    all_algorithms.append(item)
+            algorithm = data_json.get('algorithm', [])
+            all_algorithms.update(algorithm)
+
+    # 去除空值
+    all_algorithms.discard('')
 
     # 将算法写入 algorithm.txt 文件
+    if not os.path.exists('dict'):
+        os.makedirs('dict')
     with open('dict/algorithm.txt', 'w', encoding='utf-8') as txt_file:
         for algorithm in all_algorithms:
             txt_file.write(f"{algorithm}\n")
@@ -154,3 +157,6 @@ def spider_main():
 
 
 spider_main()
+
+
+{"algorithm": "二分", "explains": [{"url": "https://oi-wiki.org/dp/opt/slope/", "frequency": 11}, {"url": "https://oi-wiki.org/dp/opt/quadrangle/", "frequency": 13}]}
