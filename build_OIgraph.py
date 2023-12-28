@@ -13,7 +13,8 @@ class OIgraph:
 
     '''读取文件'''
 
-    def read_nodes(self):
+    @staticmethod
+    def read_nodes():
 
         # 构建节点
         algorithms = []  # 算法（关键节点）
@@ -162,10 +163,10 @@ class OIgraph:
         (algorithms, problems, sources, years, poses, problem_infos, algorithm_explains,
          rels_algorithm_problem, rels_problem_source, rels_problem_year, rels_problem_pos,
          rels_algorithm_explain) = self.read_nodes()
-        f_problem = open('dict/problem.txt', 'w+')
-        f_source = open('dict/source.txt', 'w+')
-        f_year = open('dict/year.txt', 'w+')
-        f_pos = open('dict/pos.txt', 'w+')
+        f_problem = open('dict/problem.txt', 'w+', encoding='utf-8')
+        f_source = open('dict/source.txt', 'w+', encoding='utf-8')
+        f_year = open('dict/year.txt', 'w+', encoding='utf-8')
+        f_pos = open('dict/pos.txt', 'w+', encoding='utf-8')
 
         f_problem.write('\n'.join(list(problems)))
         f_source.write('\n'.join(list(sources)))
