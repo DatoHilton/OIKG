@@ -96,48 +96,48 @@ def wiki_spider():
 
 
 def spider_main():
-    # """爬取洛谷"""
-    # print("正在爬取洛谷...")
-    # start_luogu = time.time()
-    # if not os.path.exists('./data/'):
-    #     os.makedirs('./data/')
-    #
-    # luogu_page_cnt = 0  # 爬取洛谷的页数
-    # for page in range(1, 51):
-    #     try:
-    #         luogu_url = f"https://www.luogu.com.cn/problem/list?page={page}"
-    #         data = luogu_spider(luogu_url)
-    #
-    #         # 逐个将爬取的数据保存为单独的JSON对象
-    #         for item in data:
-    #             with open('./data/luogu.json', 'a', encoding='utf-8') as f:
-    #                 json.dump(item, f, ensure_ascii=False)
-    #                 f.write('\n')  # 每个JSON对象后面添加一个换行符
-    #         luogu_page_cnt += 1
-    #     except Exception as e:
-    #         print(e)
-    #
-    # end_luogu = time.time()
-    # luogu_time = end_luogu - start_luogu
-    # print(f"----------洛谷爬取完成！爬取{luogu_page_cnt}页，用时{int(luogu_time)}秒。----------")
-    #
-    # """从luogu.json中生成algorithm.dict，用于爬取oi-wiki"""
-    # all_algorithms = set()
-    # with open('data/luogu.json', 'r', encoding='utf-8') as file:
-    #     for data in file:
-    #         data_json = json.loads(data)
-    #         algorithm = data_json.get('algorithm', [])
-    #         all_algorithms.update(algorithm)
-    #
-    # # 去除空值
-    # all_algorithms.discard('')
-    #
-    # # 将算法写入 algorithm.txt 文件
-    # if not os.path.exists('dict'):
-    #     os.makedirs('dict')
-    # with open('dict/algorithm.txt', 'w', encoding='utf-8') as txt_file:
-    #     for algorithm in all_algorithms:
-    #         txt_file.write(f"{algorithm}\n")
+    """爬取洛谷"""
+    print("正在爬取洛谷...")
+    start_luogu = time.time()
+    if not os.path.exists('./data/'):
+        os.makedirs('./data/')
+
+    luogu_page_cnt = 0  # 爬取洛谷的页数
+    for page in range(1, 51):
+        try:
+            luogu_url = f"https://www.luogu.com.cn/problem/list?page={page}"
+            data = luogu_spider(luogu_url)
+
+            # 逐个将爬取的数据保存为单独的JSON对象
+            for item in data:
+                with open('./data/luogu.json', 'a', encoding='utf-8') as f:
+                    json.dump(item, f, ensure_ascii=False)
+                    f.write('\n')  # 每个JSON对象后面添加一个换行符
+            luogu_page_cnt += 1
+        except Exception as e:
+            print(e)
+
+    end_luogu = time.time()
+    luogu_time = end_luogu - start_luogu
+    print(f"----------洛谷爬取完成！爬取{luogu_page_cnt}页，用时{int(luogu_time)}秒。----------")
+
+    """从luogu.json中生成algorithm.dict，用于爬取oi-wiki"""
+    all_algorithms = set()
+    with open('data/luogu.json', 'r', encoding='utf-8') as file:
+        for data in file:
+            data_json = json.loads(data)
+            algorithm = data_json.get('algorithm', [])
+            all_algorithms.update(algorithm)
+
+    # 去除空值
+    all_algorithms.discard('')
+
+    # 将算法写入 algorithm.txt 文件
+    if not os.path.exists('dict'):
+        os.makedirs('dict')
+    with open('dict/algorithm.txt', 'w', encoding='utf-8') as txt_file:
+        for algorithm in all_algorithms:
+            txt_file.write(f"{algorithm}\n")
 
     """爬取oi-wiki"""
     print("正在爬取oi-wiki...")
