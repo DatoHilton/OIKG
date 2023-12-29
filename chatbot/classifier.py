@@ -26,13 +26,13 @@ class QuestionClassifier:
         # 特征词路径
         self.algorithm_path = os.path.join(cur_dir, 'dict/algorithm.txt')
         self.pos_path = os.path.join(cur_dir, 'dict/pos.txt')
-        self.problem_path = os.path.join(cur_dir, 'dict/problem.txt')
+        self.problem_name_path = os.path.join(cur_dir, 'dict/problem_name.txt')
         self.source_path = os.path.join(cur_dir, 'dict/source.txt')
         self.year_path = os.path.join(cur_dir, 'dict/year.txt')
         # 加载特征词
         self.algorithm_wds = [i.strip() for i in open(self.algorithm_path, encoding="utf-8") if i.strip()]
         self.pos_wds = [i.strip() for i in open(self.pos_path, encoding="utf-8") if i.strip()]
-        self.problem_wds = [i.strip() for i in open(self.problem_path, encoding="utf-8") if i.strip()]
+        self.problem_wds = [i.strip() for i in open(self.problem_name_path, encoding="utf-8") if i.strip()]
         self.source_wds = [i.strip() for i in open(self.source_path, encoding="utf-8") if i.strip()]
         self.year_wds = [i.strip() for i in open(self.year_path, encoding="utf-8") if i.strip()]
         self.region_words = set(self.algorithm_wds + self.pos_wds + self.problem_wds + self.source_wds + self.year_wds)
@@ -41,7 +41,7 @@ class QuestionClassifier:
         # 问句疑问词
         self.algorithm_qwds = ['算法', '数据结构', '方法', '思路', '标答', '题解', '解析', '知识点']
         self.problem_qwds = ['题目', '问题', '习题', '例题']
-        self.explain_qwds = ['解释', '讲解', '说明', '详细解答']
+        self.explain_qwds = ['解释', '讲解', '说明', '详细解答', '介绍', '阐释', '阐述', '探究', '论述', '了解']
         self.source_qwds = ['来源', '出处', '从哪儿来', '出现']
         self.year_qwds = ['年份', '哪一年', '何年', '哪年', '年份']
         self.pos_qwds = ['省份', '地区', '所在地', '哪个省', '地方']
@@ -82,6 +82,11 @@ class QuestionClassifier:
         # 算法-题目
         if self.check_words(self.problem_qwds, _question) and ('algorithm' in types):
             question_type = 'algorithm_problem'
+            question_types.append(question_type)
+
+        # 算法-解释
+        if self.check_words(self.explain_qwds, _question) and ('algorithm' in types):
+            question_type = 'algorithm_explain'
             question_types.append(question_type)
 
         _data['question_types'] = question_types

@@ -28,6 +28,8 @@ class QuestionPaser:
                 sql = self.sql_transfer(question_type, entity_dict.get('problem'))
             elif question_type == 'problem_pos':
                 sql = self.sql_transfer(question_type, entity_dict.get('problem'))
+            elif question_type == 'algorithm_explain':
+                sql = self.sql_transfer(question_type, entity_dict.get('algorithm'))
 
             if sql:
                 sql_['sql'] = sql
@@ -52,5 +54,7 @@ class QuestionPaser:
             sql = [f"MATCH (m:problem)-->(n:year) WHERE m.name = '{i}' RETURN m.name, n.name" for i in entities]
         elif question_type == 'problem_pos':
             sql = [f"MATCH (m:problem)-->(n:pos) WHERE m.name = '{i}' RETURN m.name, n.name" for i in entities]
+        elif question_type == 'algorithm_explain':
+            sql = [f"MATCH (m:algorithm)-[r]->(n:explain) WHERE m.name = '{i}' RETURN m.name, n.name, n.url, r.frequency ORDER BY r.frequency DESC LIMIT 3" for i in entities]
 
         return sql
