@@ -2,7 +2,7 @@
 
 ### 项目概述
 
-本项目为天津大学智能与计算学部2023年知识图谱课程大作业，选题为“开发一个OI（Olympiad in Informatics，信息学奥林匹克竞赛）的知识图谱及应用”，开发人员为[洪图](https://github.com/DatoHilton/)，[刘书任](https://github.com/Haoxi2002/)。
+本项目为天津大学智能与计算学部2023年知识图谱课程大作业，选题为“信息学奥林匹克竞赛（OI）知识图谱开发及问答机器人应用”，开发人员为[洪图](https://github.com/DatoHilton/)，[刘书任](https://github.com/Haoxi2002/)。
 
 ### 项目结构
 
