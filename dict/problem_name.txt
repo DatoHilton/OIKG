@@ -1,0 +1,2475 @@
+[JLOI2015] 骗我呢
+发射站
+Facer的魔法
+[USACO11JAN] Profits S
+[JLOI2015] 有意义的字符串
+[ZJOI2010] 网络扩容
+[NOIP2015 提高组] 子串
+数字统计
+榨取kkksc03
+[BOI2003] 团伙
+秘密文件
+关灯
+泡芙
+[USACO08JAN] Running S
+哥德巴赫猜想
+求分数序列和
+[AHOI2001] 团体操队形
+[ZJOI2012] 旅游
+城墙
+non hates math
+[NOIP2014 提高组] 解方程
+通往奥格瑞玛的道路
+[国家集训队] 数颜色 / 维护队列
+[NOIP2016 提高组] 愤怒的小鸟
+[USACO08DEC] Hay For Sale S
+[SCOI2013] 多项式的运算
+小书童——刷题大军
+[SCOI2016] 美味
+[HAOI2007] 理想的正方形
+[NOIP2000 提高组] 进制转换
+饥饿的奶牛
+Generic Cow Protests
+[NOIP2015 普及组] 推销员
+[HNOI2004] 打鼹鼠
+棋盘分割
+[AHOI2004] 奇怪的字符串
+[USACO12OPEN] Balanced Cow Subsets G
+[USACO14JAN] Cow Curling G
+[SHOI2001] 三国围棋对抗赛
+种树
+打保龄球
+小 Z 的栈函数
+[NOIP2001 普及组] 数的计算
+小鱼的航程（改进版）
+[AHOI2005] 穿越磁场
+[NOIP2003 普及组] 栈
+遗址
+Mzc和男家丁的游戏
+[USACO4.3] 逢低吸纳Buy Low, Buy Lower
+最高的分数
+[NOI2009] 植物大战僵尸
+[USACO10FEB] Cows on Ice G
+矩阵转置
+三倍经验
+[SDOI2015] 寻宝游戏
+[USACO16DEC] Moocast G
+两数之和
+[SCOI2009] 骰子的学问
+[USACO07DEC] Best Cow Line G
+领地选择
+凌乱的地下室
+[TJOI2012] 桥
+[USACO3.3] 亚瑟王的宫殿
+[USACO11DEC] Umbrellas for Cows S
+[USACO13DEC] The Bessie Shuffle S
+[NOIP2012 普及组] 寻宝
+[USACO1.3] 虫洞 wormhole
+巧克力
+经营与开发
+点的移动
+BBCode转换Markdown
+K-联赛
+第 n 小的质数
+[HNOI2016] 网络
+看守
+[NOI2016] 网格
+生日
+[USACO2.1] 三值的排序 Sorting a Three-Valued Sequence
+[NOI2009] 描边
+[NOI2015] 软件包管理器
+[SDOI2008] 递归数列
+[USACO12DEC] Running Away From the Barn G
+摆石子
+遍历问题
+[USACO11FEB] The Triangle S
+删除单词后缀
+埃及分数
+最大正方形
+哥德巴赫猜想（升级版）
+矩阵 III
+[HNOI2004] 高精度开根
+校门外的树（增强版）
+[HNOI2011] 数矩形
+[NOIP2011 普及组] 数字反转
+前缀单词
+珍珠项链
+素数密度
+垃圾陷阱
+[ZJOI2015] 醉熏熏的幻想乡
+[POI2004] SZP
+Facer的工厂
+[ZJOI2013] K大数查询
+[USACO09OCT] Bessie's Weight Problem G
+三角形
+[USACO13OPEN] Figure Eight G
+[USACO12MAR] Flowerpot S
+不想兜圈的老爷爷
+班级聚会
+[国家集训队] 小 Z 的袜子
+[NOI2001] 食物链
+[USACO2.2] 循环数 Runaround Numbers
+[USACO1.4] [IOI1994]时钟 The Clocks
+眼红的Medusa
+[USACO08MAR] Cow Travelling S
+太空飞行计划问题
+[USACO13MAR] Necklace G
+最长k可重线段集问题
+[JLOI2016] 成绩比较
+[SCOI2005] 骑士精神
+[USACO12MAR] Tractor S
+[USACO2.1] 海明码 Hamming Codes
+Einstein学画画
+宿舍里的故事之五子棋
+[USACO06NOV] Big Square S
+无线通讯网
+Monkey King
+【深基1-2】小学数学 N 合一
+飞行员配对方案问题
+[USACO09NOV] Who Brings the Cookies? G
+[USACO05FEB] Secret Milking Machine G
+口算练习题
+[NOIP2001 提高组] 一元三次方程求解
+分梨子
+[HNOI2005] 纸片覆盖
+[NOIP1997 提高组] 棋盘问题
+采购特价商品
+[SDOI2005] 高速公路
+[AHOI2012] 树屋阶梯
+[国家集训队] 稳定婚姻
+麦当劳叔叔的难题
+组合的输出
+[NOI2009] 变换序列
+[HAOI2012] 高速公路
+[HAOI2010] 计数
+[USACO08NOV] Buying Hay S
+[HNOI2014] 道路堵塞
+[NOIP1998 提高组] 进制位
+[HNOI2012] 集合选数
+[NOIP1998 提高组] 拼数
+[NOI2015] 荷马史诗
+英语1（eng1）- 英语作文
+[NOI2010] 超级钢琴
+小明搬家
+猴子选大王数据再加强版
+[NOIP2005 普及组] 校门外的树
+[NOIP2013 普及组] 车站分级
+奇偶 ASCII 值判断
+[NOI2005] 瑰丽华尔兹
+[NOI2013] 小 Q 的修炼
+文件压缩
+[HNOI2012] 永无乡
+gcd区间
+佳佳的魔法药水
+跳舞
+密令
+[USACO13FEB] Taxi G
+[USACO11NOV] Cow Steeplechase G
+【模板】普通平衡树
+[USACO14FEB] Auto-complete S
+[USACO1.4] 等差数列 Arithmetic Progressions
+二进制
+[USACO08NOV] Mixed Up Cows G
+[AHOI2016初中组] 迷宫
+[USACO14OPEN] Cow Optics G
+进攻幽暗城
+滑动窗口 /【模板】单调队列
+堆放货物
+[USACO2.1] 健康的荷斯坦奶牛 Healthy Holsteins
+[HNOI2006] 公路修建问题
+[USACO09JAN] Best Spot S
+扇区填数
+【模板】最小生成树
+logo语言
+[USACO03FALL / HAOI2006] 受欢迎的牛 G
+[NOIP2014 提高组] 联合权值
+[AHOI2005] 病毒检测
+[NOIP2001 提高组] 统计单词个数
+[USACO13JAN] Painting the Fence S
+[NOIP2015 提高组] 神奇的幻方
+多人背包
+判断字符串是否为回文
+漂亮字串
+[NOIP2015 提高组] 运输计划
+[HNOI2004] 敲砖块
+[SHOI2001] 排序工作量之新任务
+[USACO07JAN] Tallest Cow S
+最大收益
+树
+伊甸园日历游戏
+圆圆舞蹈
+[NOIP2006 提高组] 能量项链
+创意吃鱼法
+[HNOI2002] 公交车路线
+数字工程
+间谍网络
+[SDOI2014] LIS
+[HNOI2008] 越狱
+[SDOI2010] 外星千足虫
+[HNOI2015] 亚瑟王
+[ZJOI2007] 时态同步
+[NOIP2016 提高组] 蚯蚓
+[SDOI2013] 刺客信条
+[USACO09JAN] Earthquake Damage G
+[SDOI2014] 旅行
+[AHOI2002] 黑白瓷砖
+[NOI2011] NOI 嘉年华
+[USACO09FEB] Surround the Islands S
+[USACO5.3] 量取牛奶Milk Measuring
+[NOI2001] 炮兵阵地
+[NOI2014] 购票
+[USACO09OCT] Allowance G
+[SCOI2005] 繁忙的都市
+[SCOI2007] 蜥蜴
+梦中的统计
+龙兄摘苹果
+[USACO08DEC] Patting Heads S
+[USACO08JAN] Cell Phone Network G
+[HNOI2016] 矿区
+[SCOI2007] 修车
+彩球树
+[CQOI2009] 跳舞
+[ZJOI2010] 数字计数
+三角形图
+[SCOI2008] 劣质编码
+[ZJOI2013] 防守战线
+小猫
+影像之结构化特征
+[SCOI2006] 一孔之见
+数组逆序重存放
+[AHOI2002] 芝麻开门
+[USACO3.1] 最短网络 Agri-Net
+【模板】Nim 游戏
+三角形牧场
+[NOIP2003 提高组] 侦探推理
+[USACO08JAN] Cow Contest S
+朋友
+[国家集训队] 墨墨的等式
+上学路线
+看球泡妹子
+硬币翻转
+统计数字字符个数
+迷宫
+[SHOI2001] Panda的烦恼
+函数
+规划
+Mzc和体委的争夺战
+[NOIP2013 提高组] 积木大赛
+遥控车
+[USACO2.4] 两只塔姆沃斯牛 The Tamworth Two
+【模板】线段树 1
+肥猫的游戏
+[NOIP2001 普及组] 求先序排列
+B进制星球
+跳跃
+[HNOI2009] 最小圈
+车厢重组
+全排列问题
+[ZJOI2008] 生日聚会
+[USACO16JAN] Fort Moo P
+Gty的妹子树
+[NOIP2016 提高组] 组合数问题
+[AHOI2005] 矿藏编码
+[SHOI2002] 滑雪
+友好城市
+[NOIP2008 普及组] ISBN 号码
+奇怪的分组
+[SDOI2015] 星际战争
+地球人口承载力估计
+[USACO12FEB] Cow IDs S
+[SDOI2006] 二进制方程
+[USACO5.4] 周游加拿大Canada Tour
+关灯问题II
+电脑班的裁员
+[SHOI2007] 书柜的尺寸
+[USACO06DEC] The Fewest Coins G
+[TJOI2011] 书架
+[USACO1.3] 号码锁 Combination Lock
+[ZJOI2011] 礼物
+与 7 无关的数
+[USACO06DEC] River Hopscotch S
+A-B 数对
+[HNOI2015] 接水果
+鸡尾酒疗法
+Hermite 多项式
+[NOI2010] 海拔
+最大乘积
+T型骨牌
+新魔法药水
+守墓人
+[HNOI2002] Kathy函数
+[NOIP2006 普及组] Jam 的计数法
+[USACO08OPEN] Roads Around The Farm S
+拆分数列
+连续出现的字符
+[NOI2002] 银河英雄传说
+航空路线问题
+[SCOI2011] 镜像拆分
+[SCOI2013] 密码
+[国家集训队] 圈地计划
+无序字母对
+Olympic
+[JLOI2013] 地形生成
+[CQOI2012] 组装
+[ZJOI2005] 梦幻折纸
+[NOIP2008 普及组] 排座椅
+【深基1.例2】简单的分苹果
+[USACO09JAN] Safe Travel G
+语句解析
+AKN’s PPAP
+yyy2015c01挑战算周长
+Sum
+罗马游戏
+[USACO09DEC] Bobsledding S
+超级数
+[HAOI2011] Problem c
+[USACO11JAN] The Continental Cowngress G
+单词的长度
+[ZJOI2016] 旅行者
+[HNOI2007] 最小矩形覆盖
+[USACO16DEC] Team Building P
+[SCOI2012] 喵星球上的点名
+新二叉树
+阶乘之乘
+[HNOI2002] 树的排序
+母舰
+[CQOI2014] 和谐矩阵
+[USACO08JAN] iCow B
+矩阵乘法
+【深基1.习1】清扫教室
+教辅的组成
+[HNOI2006] 超级英雄
+[SDOI2013] 泉
+接力赛跑
+那个什么密码2
+成功密码
+[SDOI2009] Bill的挑战
+[USACO08OPEN] Cow Cars S
+搭配购买
+小木棍
+L 国的战斗之排兵布阵
+三元上升子序列
+[SCOI2013] 泡泡鱼
+[SDOI2008] 烧水问题
+幼儿园篮球题
+[USACO1.1] 坏掉的项链 Broken Necklace
+[USACO11NOV] Binary Sudoku G
+瑞瑞的木棍
+汤姆斯的天堂梦
+[USACO14MAR] Sabotage G
+[SHOI2001] 击鼓传花
+[USACO2.3] 最长前缀 Longest Prefix
+最大质因子序列
+[USACO11OPEN] Forgotten Password S
+[JLOI2014] 路径规划
+[USACO14OPEN] Code Breaking G
+地铁间谍
+月落乌啼算钱（斐波那契数列）
+[NOI2013] 树的计数
+[ZJOI2012] 灾难
+[SCOI2008] 配对
+公共子序列
+合并神犇
+计算器写作文
+积水面积
+[AHOI2012] 铁盘整理
+高手过招
+[SDOI2015] 立体图
+[COI2007] Patrik 音乐会的等待
+[USACO12JAN] Delivery Route S
+神秘大三角
+[HAOI2011] Problem b
+[USACO11NOV] Above the Median G
+单词翻转
+I Hate It
+[HNOI2013] 消毒
+[SDOI2013] 保护出题人
+同行列对角线的格
+数列排序
+三子棋I
+[SCOI2016] 背单词
+计算电压
+集合位置
+loidc，卖卖萌
+[NOIP2008 提高组] 笨小猴
+[HNOI2013] 游走
+[USACO15JAN] Stampede S
+[HNOI2001] 洋洋吃蛋糕
+东风谷早苗
+digit 函数
+[SDOI2005] 阶梯教室设备利用
+[SCOI2011] 糖果
+[USACO08JAN] Telephone Lines S
+[HNOI2010] 弹飞绵羊
+结算日
+[USACO04NOV] Apple Catching G
+[USACO16OPEN] Landscaping P
+[USACO05MAR] Out of Hay S
+逛庙会
+楼房
+[USACO4.1] 麦香牛块Beef McNuggets
+猜数（IO交互版）
+[NOI2013] 向量内积
+[USACO1.5] 八皇后 Checker Challenge
+矩阵 II
+[NOIP2003 提高组] 神经网络
+[ZJOI2009] 假期的宿舍
+【深基2.例1】跑步
+统计满足条件的 4 位数
+[ZJOI2014] 星系调查
+满足条件的数累加
+《瞿葩的数字游戏》T2-多边形数
+[AHOI2004] 智能探险车
+兔八哥与猎人
+回文串计数
+逐个击破
+压缩技术（续集版）
+【模板】KMP
+鬼子进村
+钓鱼
+有一门课不及格的学生
+膜拜
+[NOIP2007 提高组] 矩阵取数游戏
+[NOIP2008 提高组] 传纸条
+[USACO3.2] 饲料调配 Feed Ratios
+[USACO11DEC] Simplifying the Farm G
+[SCOI2008] 警告
+[USACO15OPEN] Trapped in the Haybales G
+高精求小数幂
+[USACO12OPEN] Tied Down G
+[SDOI2012] 集合
+[USACO08OPEN] Word Power S
+[USACO15JAN] Moovie Mooving G
+[SDOI2011] 消防
+A + B 问题
+大象喝水
+又上锁妖塔
+[USACO09OCT] The Leisurely Stroll G
+[USACO14DEC] Piggy Back S
+填涂颜色
+书本整理
+[USACO11FEB] Cowlphabet G
+山上的国度
+[SDOI2011] 迷宫探险
+二叉苹果树
+[HNOI2004] 最佳包裹
+[SDOI2011] 计算器
+[NOI1999] 生日蛋糕
+[HNOI2002] 交换
+无尽的生命
+[AHOI2002] 哈利·波特与魔法石
+小Z的矩阵
+[NOIP1997 普及组] 棋盘问题
+套利
+[TJOI2011] 序列
+[USACO14JAN] Ski Course Rating G
+烛光晚餐
+[NOIP2004 普及组] FBI 树
+[USACO06DEC] Wormholes G
+计算邮资
+最小路径覆盖问题
+钦定
+离开中山路
+开关灯
+集合分组【征集 spj】
+[SDOI2012] 体育课
+分段函数
+[HNOI2011] 卡农
+[USACO2.2] 序言页码 Preface Numbering
+魔鬼杀手
+[USACO10NOV] Banner S
+[ZJOI2007] 仓库建设
+[USACO13NOV] Farmer John has no Large Brown Cow S
+[yLOI2018] 树上的链
+[CQOI2007] 余数求和
+质因数分解
+[HNOI2001] 洗牌机
+序列变换
+奥运奖牌计数
+【深基1.习2】面积计算
+[SCOI2009] windy 数
+[SHOI2007] 园丁的烦恼
+[USACO09OCT] Barn Echoes G
+[NOIP2012 普及组] 文化之旅
+小Z的关系距离
+药房管理
+公交车
+图像变换
+Facer 帮父亲
+[USACO4.3] 字母游戏Letter Game
+会议
+[NOIP2008 提高组] 火柴棒等式
+[USACO07NOV] Cow Hurdles S
+[SCOI2014] 方伯伯的玉米田
+欢总喊楼记
+[USACO14OPEN] Fair Photography S
+刻录光盘
+[SCOI2010] 序列操作
+刺杀大使
+[SDOI2010] 古代猪文
+[USACO06DEC] Milk Patterns G
+扫描
+[HNOI2002] 填数游戏
+分裂游戏
+单向双轨道
+[NOIP2009 提高组] Hankson 的趣味题
+[USACO1.4] 铺放矩形块 Packing Rectangles
+查找特定的值
+无聊的数列
+[USACO10DEC] Cow Calisthenics G
+[SCOI2005] 互不侵犯
+果汁店的难题
+拼字游戏
+树的数量
+A+B Problem（再升级）
+取数游戏 II
+[HNOI2003] 多项式的加法和乘法
+没有上司的舞会
+城市街道交通费系统
+低价购买
+又是毕业季II
+修复公路
+[POI2000] 病毒
+[USACO07JAN] Protecting the Flowers S
+欧几里德的游戏
+[HAOI2006] 旅行
+[NOIP2001 提高组] 数的划分
+求逆序对
+校园网络【[USACO]Network of Schools加强版】
+[SCOI2014] 舌尖上的方伯伯
+[USACO13FEB] Route Design G
+老虎的题目
+[SDOI2005] 屠龙传说-屠龙枪卷
+[USACO10JAN] Cow Telephones G
+单词背诵
+[USACO15OPEN] Bessie's Birthday Buffet S
+【模板】排序
+信封问题
+[USACO14DEC] Marathon S
+[SCOI2007] 压缩
+[SDOI2011] 消耗战
+信号放大器
+末日的传说
+[ZJOI2015] 幻想乡 Wi-Fi 搭建计划
+[NOIP2000 提高组] 方格取数
+[JLOI2013] 删除物品
+拱猪计分
+十字绣
+足球
+LocalMaxima
+[USACO2.3] 零的数列 Zero Sum
+[HNOI2001] 棋盘变换
+[JLOI2016] 方
+天使的起誓
+贪婪的Copy
+积木城堡
+[HNOI2007] 神奇游乐园
+轰炸
+【深基1.例3】简单的分苹果 2
+[USACO08DEC] Largest Fence G
+[USACO2.4] 牛的旅行 Cow Tours
+[CERC2016] Lost Logic
+[USACO10OCT] Soda Machine G
+盒子与球
+Catch the theives
+确定进制
+[HNOI2014] 米特运输
+[ZJOI2012] 小蓝的好友
+队爷的新书
+yyy2015c01的IDE之Watches
+[USACO1.2] 挤牛奶Milking Cows
+战略游戏
+[USACO13NOV] Pogo-Cow S
+设计道路
+[USACO4.2] 草地排水Drainage Ditches
+[SDOI2013] 费用流
+[USACO18JAN] Blocked Billboard II B
+[USACO09OPEN] Cow Line S
+人口增长问题
+[USACO07DEC] Mud Puddles S
+计算球的体积
+买礼物
+NOI元丹
+均值
+方阵安排
+每日打卡心情好
+[USACO06DEC] Cow Picnic S
+[USACO12NOV] Clumsy Cows S
+[USACO13OPEN] Fuel Economy S
+[HNOI2010] 公交线路
+神秘数字
+出栈序列
+[USACO16FEB] Circular Barn S
+[USACO12OPEN] Bookshelf G
+教主的花园
+精卫填海
+覆盖
+[AHOI2002] Kitty猫基因突变
+[USACO1.5] 特殊的质数肋骨 Superprime Rib
+【模板】字符串哈希
+判决素数个数
+[USACO3.4] 网 Electric Fences
+[USACO08MAR] River Crossing S
+yyy loves Chemistry I
+车的放置
+[NOIP2015 提高组] 信息传递
+马农
+[USACO1.3] 修理牛棚 Barn Repair
+[ZJOI2008] 骑士
+素数对
+算式
+[USACO15DEC] High Card Low Card P
+[JLOI2014] 镜面通道
+医院设置
+Y的积木
+[SCOI2011] 棘手的操作
+[NOIP2010 普及组] 导弹拦截
+[USACO06NOV] Roadblocks G
+[USACO10MAR] Great Cow Gathering G
+[AHOI2001] 华夏60战斗机
+求 f(x,n)
+[CQOI2014] 危桥
+公路修建
+入门测试题目
+[ZJOI2010] 贪吃的老鼠
+EXCEEDED WARNING B
+[SDOI2006] 保安站岗
+[NOIP2011 提高组] 选择客栈
+[HNOI2010] 矩阵
+挑战
+单词替换
+选学霸
+密码翻译
+[SCOI2010] 股票交易
+[USACO09OCT] The Robot Plow G
+Mivik 写书
+[ZJOI2009] 函数
+[SDOI2009] HH去散步
+雷达安装
+[USACO04DEC] Dividing the Path G
+质数的和与积
+[CQOI2011] 放棋子
+不与最大数相同的数字之和
+字符三角形
+突击考试
+[NOI2007] 调兵遣将
+[SDOI2008] 洞穴勘测
+[HAOI2006] 均分数据
+最接近的分数
+[USACO15JAN] Cow Rectangles G
+高维正方体
+Gty的超级妹子树【数据疑似有误】
+数楼梯
+SAC#1 - ACOJ云评测计划
+[国家集训队] 等差子序列
+独眼兔
+对撞机
+外星密码
+城市环路
+[HNOI2011] 括号修复 / [JSOI2011]括号序列
+简单算术表达式求值
+[NOIP2002 普及组] 选数
+不高兴的津津（升级版）
+[NOIP2002 提高组] 矩形覆盖
+[NOI2009] 管道取珠
+删数问题
+[USACO12JAN] Bovine Alliance G
+[SDOI2010] 大陆争霸
+[NOIP2011 提高组] 观光公交
+[USACO07OPEN] Catch That Cow S
+Cool loves touli
+还是 N 皇后
+判断能否被 3，5，7 整除
+[JLOI2016] 字符串覆盖
+Haywire
+长方形
+[USACO13JAN] Seating G
+[HAOI2016] 食物链
+[ZJOI2009] 狼和羊的故事
+[USACO09OPEN] Cow Digit Game S
+[CQOI2012] 交换棋子
+虫洞
+[USACO08NOV] Toys G
+[AHOI2009] 飞行棋
+[NOIP2013 普及组] 小朋友的数字
+奇数求和
+Mivik 的标题
+[NOI2014] 动物园
+百日旅行
+矩阵加法
+[USACO19OPEN] Cow Evolution B
+[HAOI2009] 巧克力
+中位数
+家谱
+改造异或树
+[USACO2.3] 控制公司 Controlling Companies
+国王的魔镜
+原核生物培养
+表达式的转换
+[HNOI2016] 最小公倍数
+绘制二叉树
+[JLOI2015] 管道连接
+[SDOI2009] 最优图像
+[CTSC1999] 家园 / 星际转移问题
+公路通行税
+[NOI2014] 起床困难综合症
+[TJOI2011] 卡片
+[USACO13OPEN] Luxury River Cruise S
+[NOIP2010 提高组] 乌龟棋
+[HAOI2006] 聪明的猴子
+数列
+高精度减法
+[NOI2011] 阿狸的打字机
+[SDOI2009] SuperGCD
+[HNOI2011] 勾股定理
+反向输出一个三位数
+单词缩写
+A % B Problem
+最大子段和
+[USACO07FEB] The Cow Lexicon S
+电梯里的尴尬
+【模板】快速幂
+[NOIP2011 提高组] Mayan 游戏
+灾后重建
+松鼠吃果子
+[USACO3.2] 香甜的黄油 Sweet Butter
+高手过愚人节
+[FJOI2007] 轮状病毒
+Hello,World!
+分苹果
+[USACO10MAR] StarCowraft G
+[SCOI2014] 方伯伯运椰子
+打砖块
+杠杆数
+[HAOI2011] problem a
+最大数 max(x,y,z)
+[NOIP2004 提高组] 合唱队形
+[USACO06JAN] Redundant Paths G
+【深基9.例1】选举学生会
+冒险岛
+【深基1.习7】定期存款
+[HNOI2003] 消防局的设立
+缘分计算
+[ZJOI2013] 抛硬币
+[USACO14JAN] Bessie Slows Down S
+[USACO08FEB] Dining Cows B
+樱花
+拯救世界2
+[USACO16OPEN] Diamond Collector S
+[NOI2015] 寿司晚宴
+[HNOI2007] 所罗门的咒语
+找人
+纸币问题 2
+[USACO3.3] 骑马修栅栏 Riding the Fences
+[HNOI2008] 遥远的行星
+整数去重
+H数
+[SDOI2011] 贪食蛇
+帮贡排序
+[NOIP2014 提高组] 生活大爆炸版石头剪刀布
+[USACO15JAN] Meeting Time S
+小A的礼物
+赤壁之战
+[USACO14DEC] Cow Jog S
+Cantor表（升级版）
+[USACO3.2] 01串 Stringsobits
+第 k 小整数
+旅行计划
+营救
+金字塔
+不同子串个数
+数字游戏
+[USACO18JAN] Out of Place B
+台阶问题
+[NOIP2011 普及组] 统计单词数
+[HNOI2002] 奶牛的运算
+计算鞍点
+[NOIP2016 普及组] 魔法阵
+Likecloud-吃、吃、吃
+鸡蛋饼
+Peter 的烟
+[USACO13JAN] Island Travels G
+方程求解
+[NOIP2016 普及组] 海港
+[ZJOI2006] 碗的叠放
+yyy2015c01 的 U 盘
+玛丽卡
+输油管道问题
+[USACO10DEC] Apple Delivery S
+等式
+[USACO3.1] 邮票 Stamps
+正方形计数
+小车问题
+[USACO09JAN] The Baric Bovine G
+[NOI2007] 生成树计数
+[SCOI2009] 围豆豆
+马的遍历
+[NOI2006] 千年虫
+[USACO13NOV] Line of Sight G
+无穷的序列
+[USACO09NOV] A Coin Game S
+迎春舞会之数字舞蹈
+[HNOI2003] 24点游戏
+[USACO12FEB] Cow Coupons G
+[USACO16JAN] Build Gates S
+“非常男女”计划
+狂奔的Wzf
+[NOIP1998 普及组] 阶乘之和
+数位平方和
+重建道路
+[USACO10FEB] Chocolate Eating S
+[USACO12MAR] Large Banner G
+[USACO08MAR] Pearl Pairing G
+[HAOI2011] 向量
+[NOIP1998 普及组] 幂次方
+[USACO10OCT] Lake Counting S
+[SDOI2008] Sue 的小球
+[USACO15JAN] Grass Cownoisseur G
+[NOIP2012 普及组] 摆花
+Cool loves shaxian
+向量点积计算
+[USACO11FEB] Best Parenthesis S
+压缩技术
+[NOI2013] 矩阵游戏
+数独
+[国家集训队] 排队
+序列取数
+[NOI2012] 迷失游乐园
+PASTE
+[USACO12FEB] Relocation S
+美丽的序列
+[HEOI2016/TJOI2016] 排序
+[NOI1998] 围巾裁剪
+又是毕业季I
+考验
+寻找平面上的极大点
+[SCOI2011] 地板
+数7
+[国家集训队] Tree II
+[USACO13FEB] Tractor S
+海滩防御
+小Z的车厢
+[IOI1998] [USACO5.5] 矩形周长Picture
+最小和
+[SCOI2007] 降雨量
+最高分数的学生姓名
+无向图三元环计数
+[AHOI2004] 数字迷阵
+[USACO16FEB] Load Balancing S
+士兵站队
+[IOI2005] Riv 河流
+[USACO11JAN] Bottleneck G
+[SCOI2014] 方伯伯打扑克
+[USACO10NOV] Cow Photographs G
+多米诺骨牌
+弹珠
+最短路
+【模板】有理数取余
+窗口的星星
+[USACO12MAR] Cows in a Skyscraper G
+低洼地
+刷题
+[SDOI2005] 动物园
+狗哥玩木棒
+再求 f(x,n)
+[USACO06FEB] Stall Reservations S
+[USACO15DEC] Counting Haybale P
+元旦晚会
+[USACO16FEB] Circular Barn Revisited G
+HXY和序列
+[USACO07OPEN] City Horizon S
+[AHOI2005] 航线规划
+行路难【疑似 std 复杂度有误】
+输出绝对值
+[SDOI2015] 模拟电路
+小玉在游泳
+[USACO08NOV] Cheering up the Cow G
+[NOIP2006 普及组] 开心的金明
+[NOIP2010 普及组] 三国游戏
+图形复原
+火星探险问题
+安全逃离（数据有误）
+IPv6地址压缩
+内存杀手
+互质数列sequence
+判断数正负
+魔杖
+[USACO11OPEN] Corn Maze S
+[USACO10MAR] Test Taking S
+[USACO10FEB] Chocolate Buying S
+瓶子国的故事
+序列
+接金币
+小 Q 的赚钱计划
+loidc，看看海
+[AHOI2016初中组] 游戏
+扑克牌
+[USACO13DEC] Milk Scheduling S
+魔术球问题
+护卫队
+素数个数
+集合
+[SDOI2010] 代码拍卖会
+[SDOI2005] 解环
+琪琪的项链
+[USACO16JAN] Mowing the Field P
+[USACO4.4] 重叠的图像Frame Up
+Function
+faebdc玩扑克
+[HNOI2016] 序列
+[AHOI2005] 约数研究
+[NOIP2005 普及组] 循环
+球迷购票问题
+[USACO13DEC] Optimal Milking G
+[HNOI2013] 数列
+[NOIP2003 普及组] 数字游戏
+改造二叉树
+[SHOI2009] 舞会
+[SDOI2010] 地精部落
+良好的感觉
+逆序对
+[USACO11OPEN] Odd degrees G
+[USACO09HOL] Holiday Painting G
+日志分析
+[USACO14OPEN] Odometer S
+[ZJOI2010] 基站选址
+[AHOI2002] Kitty猫基因编码
+[USACO15DEC] Max Flow P
+扩散
+Chessboard Dance
+[USACO05FEB] Feed Accounting S
+最后的迷宫
+四方定理
+【mc生存】卖东西
+[USACO08OPEN] Crisis on the Farm G
+[ZJOI2010] 任务安排
+词编码
+[NOIP2000 普及组] 税收与补贴问题
+平均数
+[USACO06FEB] Backward Digit Sums G/S
+数页码
+[NOIP1999 提高组] 旅行家的预算
+整理药名
+平板涂色
+[HNOI2010] 合唱队
+机器分配
+[USACO09HOL] Cattle Bruisers G
+魔术数字游戏
+带余除法
+[SHOI2002] 百事世界杯之旅
+[HNOI2005] 数三角形
+[USACO06JAN] The Cow Prom S
+[HNOI2003] 密室之门
+[USACO12NOV] Distant Pastures S
+[USACO07NOV] Milking Time S
+购物
+带通配符的字符串匹配
+[SDOI2013] 逃考
+约瑟夫
+[USACO06DEC] Cow Roller Coaster S
+三角形判断
+[JLOI2014] 天天酷跑
+天路
+[USACO19OPEN] Milk Factory B
+[HEOI2016/TJOI2016] 游戏
+[POI2001] [HAOI2007] 反素数
+[SDOI2011] 黑白棋
+不等数列
+单词游戏
+超级玛丽游戏
+[NOI2015] 品酒大会
+yyy loves Easter_Egg I
+漂亮的绝杀
+faebdc 的烦恼
+loidc，想想看
+[JSOI2010] 巨额奖金
+第一次，第二次，成交！
+[ZJOI2012] 波浪
+计算浮点数相除的余
+【模板】线段树 2
+新汉诺塔
+[HNOI2006] 潘多拉的宝盒
+切绳子
+[USACO09OPEN] Bovine Embroidery G
+输出亲朋字符串
+Diamond A&B(2)
+小Z的AK计划
+A+B A-B A*B A/B A%B Problem
+[USACO09HOL] Transmission Delay G
+[USACO14FEB] Airplane Boarding G
+[NOIP2013 提高组] 花匠
+皇后游戏
+[NOIP2004 普及组] 不高兴的津津
+[ZJOI2007] 最大半连通子图
+资料分发1
+[USACO07JAN] Balanced Lineup G
+[NOIP1999 普及组] 回文数
+[NOIP2005 提高组] 篝火晚会
+地毯填补问题
+[NOI2009] 二叉查找树
+方格取数加强版
+[国家集训队] 部落战争
+GCD SUM
+[USACO05FEB] Aggressive cows G
+[SDOI2015] 音质检测
+【深基15.例1】询问学号
+[SDOI2012] 基站建设
+[USACO11MAR] Bovine Bridge Battle S
+[NOIP2015 普及组] 金币
+[USACO09FEB] Stock Market G
+排序二叉树
+赛跑
+符文之语
+[HNOI2002] 跳蚤
+[NOIP2014 提高组] 飞扬的小鸟
+MICE
+bf
+[HNOI2010] 城市建设
+木牛流马
+[USACO11OPEN] Cow Checkers S
+队员分组
+[USACO1.5] 回文质数 Prime Palindromes
+GTY的人类基因组计划2
+[HAOI2008] 硬币购物
+赌博游戏【数据有误】
+黑匣子
+[NOIP2014 普及组] 子矩阵
+封锁阳光大学
+[HNOI2008] 水平可见直线
+拯救世界
+青蛙的约会
+HXY玩卡片
+[HNOI2003] 多边形
+[NOIP2007 普及组] Hanoi 双塔问题
+[SDOI2009] 学校食堂
+小笼包
+[NOIP2002 提高组] 均分纸牌
+游戏
+[USACO07OPEN] 翻转棋 Fliptile S
+整型与布尔型的转换
+木材加工
+[NOIP2005 提高组] 等价表达式
+序列合并
+[NOIP2011 提高组] 聪明的质监员
+通天之分组背包
+Uim的情人节礼物·其之壱
+白金莲花池
+甲流疫情死亡率
+[NOIP2010 提高组] 关押罪犯
+图像相似度
+[清华集训2012] 模积和
+约瑟夫问题
+锁
+求一元二次方程
+寒假作业
+pb的游戏（1）
+[USACO11OPEN] Learning Languages S
+[SCOI2016] 幸运数字
+[SDOI2015] 旅行计划
+[NOIP2014 普及组] 螺旋矩阵
+矩阵交换行
+[CQOI2015] 选数
+语文成绩
+取火柴游戏
+[HNOI2014] 抄卡组
+[USACO04DEC] Tree Cutting S
+正整数序列
+【深基2.例3】玩橡皮泥
+鸿雁传书
+[SDOI2010] 城市规划
+[NOI2010] 航空管制
+收集瓶盖赢大奖
+[HNOI2002] 营业额统计
+3D模型
+[USACO09JAN] Total Flow S
+[HAOI2015] 按位或
+[USACO10DEC] Treasure Chest S
+求 1+2+3+...+N 的值
+斯诺克
+弹幕考察
+火枪打怪
+请柬
+[HAOI2012] 外星人
+小岛
+[USACO11MAR] Tree Decoration G
+[USACO13NOV] Crowded Cows S
+[USACO2.1] 城堡 The Castle
+[USACO07DEC] Gourmet Grazers G
+排队接水
+三素数数
+[NOIP2011 普及组] 瑞士轮
+[USACO3.4] “破锣摇滚”乐队 Raucous Rockers
+[JSOI2007] 重要的城市
+[NOIP2012 提高组] 开车旅行
+[NOIP2001 普及组] 最大公约数和最小公倍数问题
+[SHOI2005] 树的双中心
+刷墙
+互质
+[国家集训队] 聪聪可可
+赚钱
+失踪的7
+[SCOI2011] 飞镖
+[USACO16FEB] Fenced In P
+求一次函数解析式
+三子棋II
+骑士共存问题
+火星上的加法运算
+整式的计算【数据有误】
+[USACO09HOL] Pearl Bracelet G【征集 SPJ】
+[USACO4.2] 完美的牛栏The Perfect Stall
+最大子树和
+[HNOI2007] 梦幻岛宝珠
+数数zzy
+[HNOI2013] 旅行
+好朋友
+[HNOI2004] 宠物收养场
+[NOI2011] 兔兔与蛋蛋游戏
+计算分数的浮点数值
+炸铁路
+[CQOI2014] 通配符匹配
+[HNOI2005] 汤姆的游戏
+[NOI2010] 成长快乐
+删数
+[HNOI2012] 双十字
+[SDOI2014] 酗酒者
+单人纸牌
+[HAOI2007] 覆盖问题
+[HNOI2007] 海盗分宝
+[NOI2011] 兔农
+绕钉子的长绳子
+[NOIP2001 提高组] Car 的旅行路线
+木棍加工
+魔法阵
+[SCOI2013] 火柴棍数字
+[NOI2011] 智能车比赛
+[USACO04DEC] Bad Cowtractors S
+红绿灯
+过河问题
+[AHOI2016初中组] 黑白序列
+[USACO12NOV] Balanced Trees G
+[COCI 2011/2012 #5] EKO / 砍树
+写程序
+[USACO06NOV] Bad Hair Day S
+[USACO4.3] 街道赛跑Street Race
+[SDOI2009] 细胞探索
+[AHOI2001] 多项式乘法
+背单词
+[USACO10OPEN] Triangle Counting G
+[USACO12JAN] Mountain Climbing S
+[SDOI2010] 捉迷藏
+hzwer 爱折纸
+搬运工
+[USACO12OPEN] Unlocking Blocks S
+[HNOI2005] 狡猾的商人
+[USACO07NOV] Telephone Wire G
+[国家集训队] JZPFAR
+[USACO09MAR] Sand Castle S
+[USACO3.3] 家的范围 Home on the Range
+[国家集训队] 单选错位
+[USACO05FEB] Rigging the Bovine Election S
+[USACO16OPEN] Field Reduction S
+[ZJOI2014] 消棋子
+Reversible Number
+奶牛隐藏
+物理1（phsic1）- 磁通量
+求正整数 2 和 n 之间的完全数
+[USACO15FEB] Cow Hopscotch G
+[SDOI2011] 拦截导弹
+[USACO11DEC] Cow Photography G/S
+[USACO14MAR] Mooo Moo S
+【模板】中国剩余定理（CRT）/ 曹冲养猪
+烹调方案
+[SDOI2013] 森林
+[HNOI2002] Tinux系统
+[NOIP2001 普及组] 装箱问题
+[NOIP2008 提高组] 双栈排序
+正误问题
+小朋友的球
+[USACO09FEB] Fair Shuttle G
+炉石collection
+[HNOI2005] 虚拟内存
+[SDOI2013] 城市规划
+[SDOI2008] 沙拉公主的困惑
+【模板】树状数组 2
+有机化学之神偶尔会做作弊
+[NOIP2000 提高组] 乘积最大
+科技庄园
+[USACO07OPEN] Dining G
+[USACO5.5] 隐藏口令 Hidden Password
+[SDOI2007] 游戏
+[USACO09OPEN] Hide and Seek S
+[USACO3.3] 商店购物 Shopping Offers
+吃奶酪
+[TJOI2011] 01矩阵
+[USACO09DEC] Cow Toll Paths G
+[USACO13DEC] The Bessie Shuffle G
+[国家集训队] 旅游
+奶牛晒衣服
+[USACO07DEC] Charm Bracelet S
+【模板】最近公共祖先（LCA）
+[USACO11NOV] Tile Exchanging S
+斐波那契公约数
+垂直柱状图
+[USACO10JAN] Buying Feed, II S
+[NOI2004] 郁闷的出纳员
+入门
+[USACO04DEC] Cleaning Shifts S
+[USACO08OCT] Wheel Rotation G
+A/B Problem
+不听话的机器人
+[NOI2012] 骑行川藏
+[NOI2013] 快餐店
+[SCOI2011] 植物大战僵尸
+zxbsmk爱查错
+[NOIP2006 提高组] 2^k进制数
+Wave
+小 A 的口头禅
+[CQOI2009] 中位数
+输出浮点数
+[APIO2012] 派遣
+幂的末尾
+路径统计
+[ZJOI2006] GameZ游戏排名系统
+分段
+[USACO12FEB] Symmetry G
+[SDOI2005] 遗传代码
+[NOIP2014 提高组] 寻找道路
+万圣节后的早晨
+[USACO10MAR] Barn Allocation G
+[ZJOI2008] 瞭望塔
+冗余依赖
+陶陶摘苹果（升级版）
+[USACO11OPEN] Mowing the Lawn G
+选举预测
+[USACO4.4] 追查坏牛奶 Pollutant Control
+宗教问题
+方块消除
+[SCOI2008] 天平
+最小花费
+封印
+输出保留 12 位小数的浮点数
+《瞿葩的数字游戏》T3-三角圣地
+最大数输出
+[SCOI2013] 数数
+[HNOI2014] 江南乐
+[JSOI2008] 完美的对称
+越越的组队
+[NOIP2009 提高组] 靶形数独
+[HAOI2006] 数字序列
+[AHOI2004] DNA变异
+[USACO14DEC] Marathon G
+[USACO08OPEN] Cow Neighborhoods G
+[USACO07FEB] Silver Lilypad Pond S
+[HAOI2016] 地图
+OSU!
+[USACO07NOV] Cow Relays G
+[USACO13MAR] Poker Hands S
+字串距离
+帮助
+[USACO08JAN] Haybale Guessing G
+因式分解
+[AHOI2002] 数的朗读
+小球
+宋荣子的城堡
+[USACO13JAN] Square Overlap S
+[USACO19FEB] Measuring Traffic B
+[NOI2014] 魔法森林
+回家
+Facer的程序
+星之器
+对齐输出
+地铁涨价
+[USACO10MAR] Need For Speed S
+圆桌问题
+奇怪的电梯
+[JLOI2014] 松鼠的新家
+[USACO14JAN] Recording the Moolympics S
+同花顺
+[NOI2012] 随机数生成器
+[HAOI2009] 毛毛虫
+画矩形
+yyy loves Maths VII
+[SDOI2010] 星际竞速
+【深基2.例4】销量预测
+增进感情
+[NOIP1996 提高组] 挖地雷
+斯诺登的密码
+[HAOI2007] 上升序列
+[AHOI2001] 彩票摇奖
+[USACO16JAN] Lights Out G
+释放囚犯
+[USACO10HOL] Cow War G
+[ZJOI2016] 小星星
+危险区域
+[USACO19FEB] The Great Revegetation B
+【模板】最长公共子序列
+【模板】左偏树/可并堆
+爱的供养
+[HNOI2006] 最短母串问题
+yyy 棋
+[USACO10OCT] Making Money G
+拯救小 tim
+[ZJOI2011] 看电影
+[NOIP2007 提高组] 统计数字
+公约数的和
+最小密度路径
+欢乐的跳
+[NOIP2008 普及组] 立体图
+[SDOI2007] 立体分割
+[USACO1.1] 你的飞碟在这儿 Your Ride Is Here
+正方形
+[CQOI2015] 网络吞吐量
+[USACO10DEC] The Trough Game S
+[SDOI2011] 工作安排
+[SCOI2008] 城堡 - 数据加强版
+乘方计算
+[NOI2016] 国王饮水记
+[AHOI2002] 网络传输
+和谐的雪花
+方程的解
+ccj与zrz之积木问题
+计算线段长度
+纸币问题 1
+座位安排
+循环的数字
+单词方阵
+[SDOI2009] 地图复原
+[ZJOI2008] 杀蚂蚁
+汽车拉力比赛
+[ZJOI2008] Risk
+[SDOI2011] 保密
+【模板】并查集
+计算并联电阻的阻值
+禽兽的传染病
+道路值守
+[CQOI2012] 模拟工厂
+查单词
+小红帽的回文数
+[USACO09NOV] The Grand Farm-off S
+【深基1.例9】圆的计算
+[USACO08NOV] Guarding the Farm S
+坚果保龄球
+YY的GCD
+合并序列
+甲流病人初筛
+分数统计
+[SCOI2012] 滑雪
+[HAOI2015] 树上染色
+洛谷的文件夹
+红牌
+[NOIP2006 普及组] 数列
+树的重量
+切蛋糕
+[HNOI2012] 排队
+[SDOI2013] 直径
+方差
+[USACO3.2] 纺车的轮子 Spinning Wheels
+[HNOI2004] 树的计数
+一中校运会之百米跑
+[NOI2002] 荒岛野人
+三国杀I（洗牌&发牌）
+[SDOI2014] 数表
+[FJOI2014] 最短路径树问题
+[USACO14FEB] Secret Code S
+高手去散步
+邮递员送信
+[NOIP2014 普及组] 比例简化
+[NOIP2012 提高组] 同余方程
+[HAOI2008] 木棍分割
+猜数
+花店橱窗布置
+一个关于序列的游戏
+Hz吐泡泡
+求平均年龄
+[USACO12MAR] Landscaping S
+最长平台
+魔法指纹
+[SDOI2009] HH的项链
+[USACO07NOV] Sunscreen G
+约数和
+[USACO4.1] 篱笆回路Fence Loops
+[USACO08NOV] Light Switching G
+[HNOI2009] 有趣的数列
+变幻数
+[USACO04DEC] Cow Ski Area G
+[CERC2016] Easy Equation
+[USACO03FALL] Cow Exhibition G
+[国家集训队] 种树
+[SDOI2009] Elaxia的路线
+[USACO07DEC] Building Roads S
+【Mc生存】插火把
+[AHOI2009] 跳棋
+[USACO1.5] [IOI1994]数字三角形 Number Triangles
+神秘磁石
+[SCOI2008] 斜堆
+三角形计数
+电影投票
+[USACO08MAR] The Loathesome Hay Baler S
+[NOIP2004 提高组] 合并果子 / [USACO06NOV] Fence Repair G
+输出保留 3 位小数的浮点数
+[HNOI2002] DNA分子的最佳比对
+化学分子式
+[NOI2005] 维护数列
+倒水问题
+[HNOI2001] 求正整数
+机器人搬重物
+[USACO1.2] 回文平方数 Palindromic Squares
+A/B Problem II
+猩猩散步
+[HAOI2012] 容易题
+[SHOI2001] 化工厂装箱员
+通天之汉诺塔
+HXY造公园
+暗杀
+[HNOI2012] 三角形覆盖问题
+[ZJOI2016] 电阻网络
+寻找最优美做题曲线
+[USACO09JAN] Laserphones S
+[ZJOI2004] 午餐
+[HNOI2011] XOR和路径
+[USACO08FEB] Making the Grade G
+[NOIP2014 提高组] 无线网络发射器选址
+角谷猜想
+高低位交换
+【深基1.习4】简单的分苹果 3
+[HNOI2015] 落忆枫音
+小玉买文具
+[NOI2016] 循环之美
+[NOIP2015 普及组] 扫雷游戏
+[SHOI2007] 宝石纪念币
+[SCOI2009] 生日礼物
+Charlie的云笔记序列
+[USACO06FEB] Treats for the Cows G/S
+HXY烧情侣
+[USACO5.4] 奶牛的电信Telecowmunication
+翻转游戏 (加强版)
+计算e
+白雪皑皑
+【深基9.例4】求第 k 小的数
+整数大小比较
+跳马问题
+[NOIP2013 提高组] 华容道
+售货员的难题
+[SDOI2014] 数数
+Sam数
+天作之合
+[NOIP1999 提高组] 导弹拦截
+最长连号
+Diamond A&B(1)
+[JLOI2015] 战争调度
+[USACO14MAR] Counting Friends G
+整数的个数
+迎接仪式
+[SCOI2005] 王室联邦
+服务器储存信息问题
+[USACO19FEB] Sleepy Cow Herding B
+[NOIP2000 提高组] 单词接龙
+地震逃生
+[NOIP2003 普及组] 麦森数
+牛场围栏
+幸福的路
+求出 e 的值
+【模板】高精度乘法 | A*B Problem 升级版
+[NOI2008] 假面舞会
+[SCOI2005] 扫雷
+[USACO04OPEN] Turning in Homework G
+疯狂 LCM
+山峰暸望
+Protect the school
+[SDOI2014] 里面还是外面
+[NOIP2012 提高组] 国王游戏
+数列分段 Section I
+[SDOI2006] 数字串位置 / 超长数字串
+火炬
+[USACO2.3] Money System / [USACO07OCT]Cow Cash G
+[NOIP2009 普及组] 道路游戏
+[SCOI2005] 超级格雷码
+[USACO07MAR] Ranking the Cows G
+loidc，跑起来
+[NOI2015] 程序自动分析
+对角线
+出租车拼车
+[USACO13JAN] Cow Lineup G
+[USACO09DEC] Music Notes S
+[USACO10JAN] Taking Turns G
+[USACO09OPEN] Work Scheduling G
+计算 2 的幂
+添加括号III
+[USACO13MAR] The Cow Run G/S
+[HNOI2002] 灌溉问题
+zzc 种田
+[USACO10JAN] Shipping Around an Island G
+[POI2008] SZK - Mirror trap
+[USACO11JAN] Dividing the Gold S
+斐波那契的拆分
+[HAOI2016] 找相同字符
+[NOIP2011 普及组] 表达式的值
+[USACO13JAN] Party Invitations S
+[USACO12DEC] Gangs of Istanbull/Cowstantinople G
+[USACO09FEB] Revamping Trails G
+[ZJOI2008] 泡泡堂
+狗哥采矿
+摄像头
+大海战
+美元汇率
+取数
+[USACO10OCT] Dinner Time S
+数的序号
+[CQOI2014] 数三角形
+[NOIP2004 提高组] 津津的储蓄计划
+[HNOI2013] 切糕
+关路灯
+小鱼的数字游戏
+[USACO07MAR] Gold Balanced Lineup G
+[NOIP2016 普及组] 回文日期
+[USACO10DEC] Big Macs Around the World G
+最佳旅游线路
+色板游戏
+yyy loves Maths II
+数字生成游戏
+区间运算
+[USACO07OCT] Obstacle Course S
+基因聚合
+Play with Power
+图的 m 着色问题
+[USACO16OPEN] 248 G
+SAC#1 - Hello World（升级版）
+[USACO10OPEN] Water Slides G
+L 国的战斗续之多路出击
+[NOIP2012 提高组] 疫情控制
+[SDOI2005] 位图
+小 a 和 uim 之大逃离
+Sramoc问题
+正则表达式
+宋荣子搭积木
+[SDOI2006] 最短距离
+最小回文数
+消息传递
+旅行商简化版
+【模板】堆
+机器人路径规划问题
+[ZJOI2008] 无序运动
+[CTSC1997] 选课
+Cytus-Holyknight
+[NOIP2010 普及组] 接水问题
+含 k 个 3 的数
+拆地毯
+口袋的天空
+[SDOI2009] 虔诚的墓主人
+游览
+[HNOI2001] 软件开发
+[HNOI2002] 沙漠寻宝
+[HAOI2012] 道路
+于是他错误的点名开始了
+[USACO06JAN] Roping the Field G
+[NOI2014] 随机数生成器
+字符串 p 型编码
+液体滴落
+砝码称重
+制杖题
+到天宫做客
+刷题比赛
+杀蚂蚁
+[USACO15OPEN] Trapped in the Haybales S
+[JSOI2008] 最大数
+[USACO10FEB] Chocolate Giving S
+[SHOI2007] 交通网络
+[ZJOI2006] 物流运输
+[SDOI2012] Longge 的问题
+[USACO16DEC] Lots of Triangles P
+[JLOI2016] 圆的异或并
+[USACO11FEB] The Lost Cows G【征集 SPJ】
+[USACO07JAN] Cow School G
+[USACO14DEC] Guard Mark G
+[NOIP2015 提高组] 跳石头
+万能的OIH搜索
+[NOIP2006 提高组] 作业调度方案
+[USACO07MAR] Cow Traffic S
+[NOIP2012 提高组] 借教室
+[HNOI2001] 产品加工
+[NOI2007] 社交网络
+四元组统计
+[ZJOI2014] 取石子游戏
+小Z的情书
+[USACO07DEC] Bookshelf 2 B
+机房中出了一只大触！
+[国家集训队] middle
+[HNOI2005] 木梳
+[USACO09OCT] Invasion of the Milkweed G
+[ZJOI2009] 对称的正方形
+[NOIP2005 普及组] 陶陶摘苹果
+质数取石子
+[SDOI2007] 科比的比赛
+[CEOI2002] Royal guards
+骑车与走路
+琪露诺
+[NOIP2013 提高组] 火柴排队
+[HNOI2010] 物品调度
+[USACO16JAN] Angry Cows G
+亲戚
+[HNOI2011] 数学作业
+[USACO10OPEN] Cow Hopscotch G
+[USACO13NOV] No Change G
+【深基3.例1】数字比较
+跑步
+排行榜
+小Z的游戏分队
+无边的网格
+[USACO08FEB] Eating Together S
+最小圆覆盖
+兽径管理
+围栏木桩
+[ZJOI2005] Genotype
+[USACO15FEB] Censoring G
+ccj与zrz之在回家的路上
+[HAOI2015] 数组游戏
+运输
+[ZJOI2007] 矩阵游戏
+[NOI2010] 能量采集
+[AHOI2012] 收集资源
+考场奇遇
+四子连棋
+[USACO07OCT] Bessie's Secret Pasture S
+[SDOI2013] 随机数生成器
+[NOIP2014 普及组] 珠心算测验
+尴尬的数字
+[SDOI2014] 括号序列计数
+A+B Problem（升级版）
+宝物筛选
+还教室
+[SCOI2010] 传送带
+[SCOI2014] 方伯伯的OJ
+搞清洁
+[HAOI2010] 最长公共子序列
+诸侯安置
+[USACO12JAN] Cow Run G
+[ZJOI2013] 蚂蚁寻路
+[CQOI2012] 局部极小值
+KC 喝咖啡
+圆
+[AHOI2012] 信号塔
+计算多项式的值
+简单计算器
+斐波那契数列（升级版）
+舞蹈课
+[USACO10NOV] Chocolate Milk S
+[NOIP2003 提高组] 加分二叉树
+子序列
+[USACO08DEC] Winning Checkers G
+[ZJOI2013] 话旧
+[ZJOI2014] 璀灿光华
+采蘑菇
+数列编辑器
+二面体群
+铁球落地
+[HAOI2010] 软件安装
+2038年问题
+矩形分割
+[NOIP2009 普及组] 细胞分裂
+进制转换
+独木桥
+[NOIP2002 提高组] 自由落体
+[ZJOI2016] 线段树
+在你窗外闪耀的星星
+小玉家的电费
+括号序列
+运动员最佳匹配问题
+打印字符
+[USACO16OPEN] Closing the Farm S
+[USACO10DEC] Threatening Letter G
+油滴扩展
+[CQOI2009] 叶子的染色
+[NOIP1998 提高组] 车站
+[SDOI2015] 排序
+点和线
+阿克曼(Ackmann)函数
+花园
+GCD
+[USACO05NOV] 奶牛玩杂技
+棋盘染色
+[SDOI2013] 淘金
+L 国的战斗之间谍
+[USACO07OPEN] Cheapest Palindrome G
+计算分数加减表达式的值
+计算分数
+[USACO09MAR] Cow Frisbee Team S
+Couple number
+[NOIP1999 普及组] Cantor 表
+解一元二次方程的烦恼
+鸿山洞的灯
+[SDOI2011] 打地鼠
+[USACO09OCT] Heat Wave G
+烦恼的高考志愿
+小Z的笔记
+Explorer
+[USACO09FEB] The Leprechaun S
+区间内的真素数
+【模板】二逼平衡树（树套树）
+[SDOI2011] 染色
+[SDOI2013] 项链
+[HNOI2007] 紧急疏散EVACUATE
+[NOIP1996 提高组] 砝码称重
+[USACO15OPEN] Palindromic Paths G
+马拉松接力赛
+[CRCI 2008] PLATFORME 平板
+[HNOI2003] 操作系统
+[SDOI2010] 所驼门王的宝藏
+[AHOI2005] 洗牌
+[HNOI2004] L 语言
+[JLOI2015] 城池攻占
+小鱼会有危险吗
+求小数的某一位
+计算 (a+b)×c 的值
+[USACO5.5] 贰五语言Two Five
+[SDOI2014] 重建
+[SDOI2013] 方程
+纸币问题 3
+[USACO12MAR] Haybale Restacking G
+被 yyh 虐的 mzc
+Kruscal的加法
+【模板】三分 | 函数
+轰炸II
+[HNOI2016] 大数
+命运石之门的选择
+倒酒
+Count on a tree
+[NOIP2004 普及组] 花生采摘
+统计和
+[SCOI2016] 萌萌哒
+[HNOI2006] 马步距离
+广义斐波那契数列
+[SCOI2008] 城堡
+[TJOI2011] 树的序
+【深基1.例10】简单的猴子吃桃
+不定方程求解
+[HNOI2009] 通往城堡之路
+【深基1.习3】竞赛得分
+[USACO5.1] 乐曲主题Musical Themes
+物品选取
+最长不下降子序列问题
+智力大冲浪
+[HNOI2011] 任务调度
+[USACO5.3] 巨大的牛棚Big Barn
+切孔机
+[JLOI2013] 赛车
+基因相关性
+[USACO5.1] 圈奶牛Fencing the Cows /【模板】二维凸包
+西游记公司
+[入门赛 #18] 禁止在 int 乘 int 时不开 long long
+[ZJOI2015] 诸神眷顾的幻想乡
+[NOI2010] 旅行路线
+[USACO1.2] 双重回文数 Dual Palindromes
+【深基1.例11】评测机队列
+救援
+【深基13.例1】查找
+田忌赛马
+我家的门牌号
+[ZJOI2010] 排列计数
+小Z的掷骰游戏
+地标访问
+Mzc家中的男家丁
+大朋友的数字
+[USACO15FEB] Fencing the Herd G
+小Z的队伍排列
+[ZJOI2012] 数列
+序列排序
+二进制分类
+[USACO1.3] 最长的回文 Calf Flac
+[USACO05FEB] Jersey Politics G
+[SCOI2006] 城堡
+[NOI2012] 魔幻棋盘
+硬币的面值
+[SDOI2009] 晨跑
+上白泽慧音
+磁盘碎片整理
+[USACO16OPEN] Bull in a China Shop P
+[USACO3.4] 美国血统 American Heritage
+[USACO06NOV] Corn Fields G
+小鱼的游泳时间
+牛宫
+温度表达转化
+选书
+包裹快递
+[NOIP2009 普及组] 分数线划定
+[NOIP2016 提高组] 换教室
+[ZJOI2011] 最小割
+Facer和教官
+[USACO10NOV] Candy S
+奶牛的耳语
+迷之阶梯
+[USACO5.2] 蜗牛的旅行Snail Trails
+[USACO13OPEN] Yin and Yang G
+[USACO08OPEN] Clear And Present Danger S
+[USACO11FEB] Cow Line S
+[NOIP2007 提高组] 树网的核
+[JSOI2008] 星球大战
+[HAOI2009] 逆序对数列
+[NOI2012] 美食节
+[USACO08FEB] Game of Lines S
+[NOIP2013 普及组] 计数问题
+[NOI2001] 聪明的打字员
+[HNOI2015] 实验比较
+情书
+[CQOI2009] 循环赛
+软件补丁问题
+餐巾计划问题
+魔方
+无线电测向
+[USACO3.2] 阶乘问题
+[HAOI2015] 数字串拆分
+[USACO08OCT] Watering Hole G
+[USACO07FEB] Lilypad Pond G
+相似基因
+显示图像
+01迷宫
+魔法物品
+水晶灯火灵
+[USACO14OPEN] Dueling GPSs S
+数字反转（升级版）
+yyy loves Maths VI (mode)
+[HNOI2001] 遥控赛车比赛
+兔子数
+加密的病历单
+[NOIP2002 提高组] 字串变换
+[USACO1.3] 牛式 Prime Cryptarithm
+速度限制
+[USACO15JAN] Cow Routing S
+波浪数
+营养膳食
+Cool loves jiaoyi
+[USACO08FEB] Hotel G
+就是干！
+[HNOI2008] Cards
+最佳课题选择
+速算游戏
+【深基12.例1】部分背包问题
+[HNOI2004] FTP服务器
+[HNOI2006] 鬼谷子的钱袋
+严酷的训练
+可见矩形
+瑞瑞的木板
+三连击（升级版）
+八数码难题
+教主的魔法
+石头剪子布
+[USACO16DEC] Cow Checklist G
+[PA2011] Prime prime power 质数的质数次方
+路边的水沟
+算24点
+[USACO1.3] 混合牛奶 Mixing Milk
+图书馆书架上的书
+[NOIP2013 普及组] 表达式求值
+[USACO15OPEN] Bessie Goes Moo S
+租用游艇
+[SDOI2010] 猪国杀
+[国家集训队] Tree I
+奇偶数判断
+[USACO04OPEN] MooFest G
+爱与愁过火
+【深基1.习6】鸡兔共笼
+[SCOI2016] 围棋
+[SDOI2014] 向量集
+因式分解II
+[NOI2009] 诗人小G
+判断一个数能否同时被 3 和 5 整除
+魔板
+[ZJOI2005] 九数码游戏
+[USACO16FEB] Milk Pails S
+kkksc03考前临时抱佛脚
+最大划分乘积
+倒水
+密码破解者
+新单词接龙问题
+【深基2.例2】英文字母
+攻击火星
+女仆咖啡厅桌游吧
+Cool loves maids
+[SCOI2008] 着色方案
+[HNOI2008] 神奇的国度
+正妹吃月饼
+加等式
+最长k可重区间集问题
+[USACO11DEC] RoadBlock S / [USACO14FEB]Roadblock G/S
+点和正方形的关系
+[NOIP2007 普及组] 奖学金
+角色属性树
+驾车旅游
+打印 ASCII 码
+有趣的数
+统计方形（数据加强版）
+学英语
+[USACO08DEC] Secret Message G
+[USACO4.2] 工序安排 Job Processing
+[USACO11MAR] Meeting Place S
+[HNOI2012] 矿场搭建
+子数整数
+[SCOI2008] 奖励关
+覆盖墙壁
+[HNOI2002] 农场的果树
+[NOIP2016 提高组] 玩具谜题
+求整数的和与均值
+[HNOI2009] 梦幻布丁
+[SDOI2007] 小组队列
+yyy loves physics IV
+化学1（chem1）- 化学合成
+最大正方形II
+[AHOI2004] 实验基地
+火烧赤壁
+染色的立方体
+[SDOI2008] Sandy 的卡片
+等差数列末项计算
+数列分段 Section II
+[NOIP2012 普及组] 质因数分解
+[USACO09MAR] Cleaning Up G
+图像模糊处理
+[USACO10HOL] Cow Politics G
+小鱼比可爱
+凌乱的yyy / 线段覆盖
+[国家集训队] happiness
+计算矩阵边缘元素之和
+[国家集训队] Crash的数字表格 / JZPTAB
+[USACO07MAR] Face The Right Way G
+XOR的艺术
+年龄与疾病
+[NOIP2003 普及组] 乒乓球
+奶牛芭蕾
+猫狗大战
+豪华游轮
+[USACO09DEC] Video Game Troubles G
+[NOIP2013 提高组] 货车运输
+字母迷宫【数据有误待修复】
+质量检测
+连续自然数和
+[HNOI2005] 星际贸易
+NASA的食物计划
+南蛮图腾
+[ZJOI2009] 多米诺骨牌
+[USACO07DEC] Sightseeing Cows G
+愚蠢的组合数
+[HAOI2008] 下落的圆盘
+[USACO1.2] 方块转换 Transformations
+小Z的 k 紧凑数
+[CTSC2000] 公路巡逻
+[SDOI2006] 仓库管理员的烦恼
+双子序列最大和
+[SCOI2006] 数字立方体
+[NOIP2002 普及组] 产生数
+[USACO16JAN] Radio Contact G
+[USACO14JAN] Building a Ski Course G
+方格填数
+[JLOI2012] 树
+失落的成绩单
+白细胞计数
+余数相同问题
+山
+最长最短单词
+保龄球
+平面最近点对（加强版）
+[NOIP2005 提高组] 谁拿了最多奖学金
+[USACO08DEC] Trick or Treat on the Farm G
+[USACO07FEB] Cow Party S
+矩形
+[USACO09MAR] Moon Mooing G
+杂务
+魔法照片
+素数回文数的个数
+[SDOI2008] 山贼集团
+家族
+Uim的情人节礼物·其之弐
+[HNOI2004] 邮递员
+语文1（chin1）- 理理思维
+【数学1】小浩的幂次运算
+[NOI1995] 石子合并
+[USACO11FEB] Generic Cow Protests G
+最短路计数
+郁闷的记者
+[USACO1.4] 母亲的牛奶 Mother's Milk
+[SCOI2010] 幸运数字
+星际导航
+[USACO12JAN] Video Game G
+树上游戏
+[USACO10FEB] Covering the Corral G
+[USACO05MAR] Yogurt factory 机器工厂
+[USACO13OPEN] What's Up With Gravity S
+跳跳棋
+计数器
+[USACO12NOV] Concurrently Balanced Strings G
+爱与愁的一千个伤心的理由
+[SDOI2008] 仪仗队
+[HAOI2008] 糖果传递
+software
+[SCOI2016] 妖怪
+脑力达人之分割字串
+yyy loves OI IV
+[HNOI2007] 分裂游戏
+路径计数2
+[USACO5.3] 校园网Network of Schools
+求细胞数量
+[USACO11MAR] Package Delivery S
+黑白棋游戏
+[USACO11DEC] Grass Planting G
+non天平
+血缘关系
+[NOIP2010 提高组] 引水入城
+[ZJOI2016] 大森林
+[HAOI2007] 分割矩阵
+[USACO08OCT] Bovine Bones G
+分糖果
+[USACO09MAR] Earthquake Damage 2 G
+[NOIP2010 普及组] 数字统计
+乘积最大3
+偶数
+【模板】k 短路 / [SDOI2010] 魔法猪学院
+[SDOI2015] 嫁接树
+[USACO09OCT] Even? Odd? G
+[HNOI2002] 彩票
+[AHOI2001] 有限自动机的测试
+[NOIP2010 提高组] 机器翻译
+[HEOI2012] 朋友圈
+[ZJOI2013] 丽洁体
+[USACO09OCT] Papaya Jungle G
+计算π
+[USACO06JAN] Corral the Cows G
+[USACO07DEC] Bookshelf B
+易语言
+[USACO07FEB] Bronze Lilypad Pond B
+【Mc生存】经验值
+丘比特的烦恼
+旅行
+搞笑世界杯
+[USACO3.1] 总分 Score Inflation
+[SDOI2005] 矩形
+[USACO09NOV] Lights G
+摇钱树
+[USACO10NOV] Visiting Cows G
+[HNOI2012] 与非
+A+B Problem（高精）
+贪吃虫
+[NOIP2003 提高组] 传染病控制
+因子和
+[USACO12DEC] First! G
+[NOI2000] 青蛙过河
+最大约数和
+[SDOI2015] 序列统计
+[HAOI2007] 修筑绿化带
+[JSOI2004] 平衡点 / 吊打XXX
+Dynamic Rankings
+偷天换日
+[SHOI2002] 取石子游戏|【模板】威佐夫博弈
+[USACO07FEB] Building A New Barn G
+时间表
+[USACO11JAN] Traffic Lights S
+[COCI 2008/2009 #2] PERKET
+[USACO13FEB] Perimeter S
+贪婪大陆
+加工生产调度
+[HNOI2003] 激光炸弹
+[SCOI2005] 最大子矩阵
+SEARCH
+通天之潜水
+[HNOI2014] 画框
+塔
+骑士的工作
+泥泞路
+小书童——凯撒密码
+[USACO12OPEN] Running Laps S
+[ZJOI2015] 幻想乡战略游戏
+[USACO09DEC] Dizzy Cows G
+验证子串
+跑路
+[NOIP2015 普及组] 求和
+[USACO09NOV] Cow Rescue G
+计算 (a+b)/c 的值
+[HNOI2003] 历史年份
+[AHOI2001] 质数和分解
+[NOIP2007 提高组] 字符串的展开
+[SDOI2014] 电路板
+[HNOI2005] 分形
+宝石管理系统
+工程规划
+逛画展
+[ZJOI2015] 地震后的幻想乡
+[NOIP2011 提高组] 铺地毯
+骰子
+[NOI2003] 智破连环阵
+三角函数
+[HAOI2015] 树上操作
+[SDOI2011] 火星移民
+小B的询问
+最长路
+[USACO11NOV] Cow Lineup S
+找第一个只出现一次的字符
+[NOI2016] 优秀的拆分
+自然数的拆分问题
+[USACO10HOL] Driving Out the Piggies G
+[HNOI2015] 菜肴制作
+[JLOI2013] 卡牌游戏
+洗牌问题
+[USACO06FEB] Steady Cow Assignment G
+胖男孩
+[NOIP2004 提高组] 虫食算
+学校选址 II
+阶乘数码
+[NOIP2000 普及组] 计算器的改良
+尼克的任务
+[IOI2000] 回文字串
+[NOIP2005 普及组] 采药
+土豆田
+[USACO03FALL] Beauty Contest G /【模板】旋转卡壳
+[USACO16DEC] Counting Haybales S
+[USACO13FEB] Milk Scheduling S
+[NOIP2009 提高组] 潜伏者
+疯狂的采药
+[HNOI2011] 赛车游戏
+魔术棋子
+[USACO16DEC] Robotic Cow Herd P
+送花
+[NOIP2012 提高组] Vigenère 密码
+[SCOI2012] 喵星人的入侵
+阅览室
+[ZJOI2009] 染色游戏
+[CQOI2014] 排序机械臂
+[ZJOI2007] 报表统计
+[USACO06FEB] Cellphones G
+空格分隔输出
+[国家集训队] 拉拉队排练
+[AHOI2009] 维护序列
+图像旋转
+[USACO08MAR] Land Acquisition G
+[NOI2016] 旷野大计算
+【模板】树状数组 1
+[USACO10FEB] Slowing down G
+[USACO2.4] 穿越栅栏 Overfencing
+地砖铺设
+天际线
+好奇怪的游戏
+最长括号匹配
+酒店之王
+判断是否为两位数
+【模板】网络最大流
+[USACO09NOV] Job Hunt S
+[USACO08JAN] Artificial Lake G
+电车
+[USACO12DEC] Crazy Fences S
+[USACO13FEB] Partitioning the Farm G
+[USACO09MAR] Look Up S
+Moo
+排序集合
+魔族密码
+过家家
+[国家集训队] 人员雇佣
+黑白棋子的移动
+[NOI2016] 区间
+魔鬼之城
+集合求和
+[ZJOI2006] 书架
+晶晶赴约会
+球弹跳高度的计算
+开灯
+[USACO14MAR] The Lazy Cow S
+有序表的合并
+[NOI2011] 道路修建
+染色
+[USACO06JAN] The Grove S
+小Z的电力管制
+Blink
+[NOIP2016 普及组] 买铅笔
+[SCOI2013] 摩托车交易
+[HAOI2010] 工厂选址
+村村通
+输出第二个整数
+[HNOI2002] 高质量的数据传输
+[AHOI2016初中组] 自行车比赛
+[USACO13DEC] Vacation Planning S
+求m区间内的最小值
+yyy2015c01 的 IDE 之 Call Stack
+《瞿葩的数字游戏》T1-数字王国的门神
+猴子上树
+[JLOI2015] 装备购买
+装备运输
+[NOIP1998 普及组] 三连击
+取数游戏
+[USACO12FEB] Overplanting S
+神奇的四次方数
+局域网
+[BJWC2008] 雷涛的小猫
+计算三角形面积
+[SCOI2014] 方伯伯的商场之旅
+[USACO2.3] 奶牛家谱 Cow Pedigrees
+数字对
+[USACO16JAN] Subsequences Summing to Sevens S
+[CQOI2011] 动态逆序对
+[USACO2.2] 集合 Subset Sums
+[USACO5.3] 窗体面积Window Area
+[PA2014] Parking
+债务清单
+防护伞
+课程
+[USACO13NOV] Empty Stalls G
+多边形的面积
+快速求和
+分队问题
+最轻的天平
+[HNOI2010] 取石头游戏
+找筷子
+[SHOI2009] 会场预约
+[USACO12DEC] Milk Routing S
+慈善的约瑟夫
+[JSOI2008] 小店购物
+寻找段落
+传教
+栈的操作
+部落卫队
+浮点数向零舍入
+[SDOI2012] 象棋
+[HNOI2008] 明明的烦恼
+[USACO09DEC] Selfish Grazing S
+[USACO12FEB] Nearby Cows G
+[USACO16OPEN] 262144 P
+奶牛浴场
+进击的奶牛
+[AHOI2009] 中国象棋
+众数
+数列的整除性
+[HAOI2016] 放棋子
+有机物燃烧
+[USACO12DEC] Wifi Setup S
+拯救oibh总部
+淘汰赛制
+投资的最大效益
+[TJOI2012] 防御
+【模板】单源最短路径（弱化版）
+完美数
+机器人小Q
+[SDOI2006] 线性方程组
+计算器弹琴
+放苹果
+东南西北
+[HAOI2010] 订货
+[国家集训队] 矩阵乘法
+血色先锋队
+排序
+[ZJOI2006] 三色二叉树
+Photo
+[USACO2.4] 回家 Bessie Come Home
+[ZJOI2007] 棋盘制作
+弹珠游戏
+[HAOI2011] 防线修建
+[USACO3.1] 丑数 Humble Numbers
+数字序列
+找出伪币
+打开所有的灯
+[USACO3.1] 联系 Contact
+加油问题
+[USACO12NOV] Balanced Cow Breeds G/S
+[SDOI2015] 双旋转字符串
+[SDOI2005] 投递的艺术
+[AHOI2002] 黑白图像压缩
+[USACO10JAN] Cheese Towers S
+扶苏的问题
+矩阵加速（数列）
+[USACO11OPEN] Soldering G
+找啊找啊找GF
+直方图
+小M的作物
+[USACO1.1] 黑色星期五Friday the Thirteenth
+逃离
+有线电视网
+[ZJOI2005] 沼泽鳄鱼
+[USACO13OPEN] Photo G
+[HNOI2001] 矩阵乘积
+[ZJOI2014] 力
+配对碱基链
+[USACO19OPEN] Bucket Brigade B
+选择数字
+电话号码
+烤鸡
+[USACO08OCT] Power Failure G
+[USACO08FEB] Meteor Shower S
+[USACO10JAN] Tea Time S
+最接近神的人
+[CQOI2015] 多项式
+A*B 问题
+幸运数与排列
+奇怪的函数
+直线交点数
+[HNOI2010] 平面图判定
+[NOI2007] 追捕盗贼
+[NOIP2013 提高组] 转圈游戏
+环状最大两段子段和
+地下城主
+区间覆盖（加强版）
+自我数
+词链
+[Violet] 樱花
+高手之在一起
+[SDOI2012] 吊灯
+[SCOI2005] 栅栏
+与圆相关的计算
+点菜
+走迷宫
+统计天数
+[USACO09OPEN] Grazing2 S
+小 K 的农场
+[HNOI2013] 比赛
+[NOIP1999 提高组] 邮票面值设计
+[USACO11JAN] Roads and Planes G
+[HNOI2007] 胜负一子
+[NOI2013] 书法家
+WJMZBMR打osu! / Easy
+方格取数问题
+爱与愁的心痛
+手机
+忠诚
+[USACO07JAN] Problem Solving G
+[USACO13DEC] Vacation Planning G
+命运的彼方
+买蛋糕
+[USACO4.4] 棋盘游戏Shuttle Puzzle
+[NOIP2002 普及组] 级数求和
+输出字符菱形
+[NOIP2006 提高组] 金明的预算方案
+[HNOI2015] 开店
+[HAOI2008] 圆上的整点
+可怜的狗狗
+苦恼的小明
+[NOIP2015 提高组] 斗地主 加强版
+数学1（math1）- 加减算式
+幻象迷宫
+[CQOI2015] 标识设计
+[USACO11MAR] Brownie Slicing G
+[USACO07MAR] Monthly Expense S
+[HNOI2014] 世界树
+斐波那契数列
+公路维修问题
+[NOIP2007 普及组] 守望者的逃离
+[NOIP2016 提高组] 天天爱跑步
+银行贷款
+拉近距离
+求和
+后缀表达式
+[NOI2015] 小园丁与老司机
+宝石串
+[USACO12JAN] Bale Share S
+[CEOI2007] 树的匹配 Treasury
+[HNOI2008] 玩具装箱
+添加括号
+计算星期几
+试题库问题
+[USACO08OCT] Pasture Walking G
+[NOIP2009 普及组] 多项式输出
+L国的战斗之伞兵
+[NOIP2005 提高组] 过河
+双调序列
+[USACO08MAR] Cow Jogging G
+让我们异或吧
+最大加权矩形
+[USACO13MAR] Hill Walk G
+奶牛分厩
+蚂蚁
+大逃离
+[JSOI2007] 祖玛
+[HNOI2012] 射箭
+单词分类
+赵神牛的游戏
+计算书费
+[USACO14MAR] Watering the Fields S
+K皇后
+卡布列克圆舞曲
+[USACO08NOV] Time Management S
+高级打字机
+房间最短路问题
+翻硬币
+[USACO2.1] 顺序的分数 Ordered Fractions
+轰炸III
+[HNOI2016] 树
+[NOI2003] 木棒游戏
+学生分组
+[SHOI2001] 小狗散步
+Facer爱游泳
+[SDOI2010] 粟粟的书架
+【模板】最小表示法
+[SDOI2009] E&D
+小A点菜
+[USACO08DEC] Jigsaw Puzzles S
+圣诞夜的极光
+[NOIP2008 普及组] 传球游戏
+质因子分解
+[SHOI2007] 善意的投票 / [JLOI2010] 冠军调查
+小Z的神奇数列
+好消息，坏消息
+[NOIP2011 提高组] 计算系数
+[NOIP2015 提高组] 斗地主
+[USACO18JAN] Lifeguards B
+编号
+洛谷团队训练 VS 传统团队训练
+绳子对折
+[国家集训队] 礼物
+平面上的最接近点对
+表达式括号匹配
+[USACO15DEC] Switching on the Lights S
+游戏预言
+海战
+[ZJOI2012] 网络
+象棋比赛
+旅行商的背包
+[NOIP2009 提高组] 最优贸易
+[NOIP2006 普及组] 明明的随机数
+[SCOI2010] 连续攻击游戏
+[SDOI2008] 郁闷的小 J
+[SDOI2015] 约数个数和
+“访问”美术馆
+单词覆盖还原
+[USACO2.4] 分数化小数 Fractions to Decimals
+消息扩散
+[USACO1.1] 贪婪的送礼者Greedy Gift Givers
+[USACO09OPEN] Ski Lessons G
+[JLOI2016/SHOI2016] 侦察守卫
+小Z的传感器
+[CQOI2015] 任务查询系统
+[USACO13MAR] Farm Painting S
+平台
+Color the Axis
+[SCOI2010] 生成字符串
+[ZJOI2007] 捉迷藏
+宇宙总统
+[USACO5.1] 夜空繁星Starry Night
+[ZJOI2006] 超级麻将
+任务安排
+[USACO2.2] 派对灯 Party Lamps
+最多因子数
+[JLOI2012] 时间流逝
+[USACO16OPEN] Splitting the Field G
+编码
+最小函数值
+[NOIP2007 普及组] 纪念品分组
+[HAOI2012] 音量调节
+[SDOI2005] 区间
+与指定数字相同的数的个数
+[USACO3.2] 魔板 Magic Squares
+蚂蚁搬家
+[USACO16DEC] Lasers and Mirrors G
+[TJOI2011] 构造矩阵
+EXCEEDED WARNING A
+[SDOI2012] 拯救小云公主
+蠕虫游戏
+队列安排
+凯撒密码
+[ZJOI2008] 树的统计
+奇妙的汽车
+A+B Problem
+5 倍经验日
+书的复制
+编辑距离
+[NOIP2004 普及组] 火星人
+休息中的小呆
+安全系统
+爆弹虐场
+[USACO3.3] 游戏 A Game
+[HNOI2008] GT考试
+[USACO05FEB] Part Acquisition S
+石子合并（弱化版）
+蜜蜂路线
+[NOIP2002 普及组] 过河卒
+A*B Problem
+[ZJOI2009] 取石子游戏
