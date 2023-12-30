@@ -8,9 +8,9 @@ venv/
 .vscode/
 
 # 忽略 data 里的所有文件
-#data/*
-#!data/
+data/*
+!data/
 
 # 忽略 dict 里的所有文件
-#dict/*
-#!dict/
+dict/*
+!dict/
