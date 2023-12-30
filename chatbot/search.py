@@ -29,7 +29,7 @@ class AnswerSearcher:
 
     def answer_prettify(self, question_type, answers):
         final_answer = []
-        if not answers:
+        if not answers and question_type != 'problem_source' and question_type != 'problem_year' and question_type != 'problem_pos':
             return ''
         if question_type == 'problem_algorithm':
             desc = [i['n.name'] for i in answers]
@@ -60,26 +60,26 @@ class AnswerSearcher:
         elif question_type == 'problem_source':
             desc = [i['n.name'] for i in answers]
             desc = list(set(desc))
-            subject = answers[0]['m.name']
-            if desc[0] == '':
-                final_answer = f"'{subject}'这道题目的来源是：洛谷"
+            if len(desc) == 0 or desc[0] == '':
+                final_answer = f"这道题目的来源是：洛谷"
             else:
+                subject = answers[0]['m.name']
                 final_answer = f"'{subject}'这道题目的来源是：{';'.join(desc[:self.num_limit])}"
         elif question_type == 'problem_year':
             desc = [i['n.name'] for i in answers]
             desc = list(set(desc))
-            subject = answers[0]['m.name']
-            if desc[0] == '':
-                final_answer = f"'{subject}'这道题目的年份未知哦"
+            if len(desc) == 0 or desc[0] == '':
+                final_answer = f"这道题目的年份未知哦"
             else:
+                subject = answers[0]['m.name']
                 final_answer = f"'{subject}'这道题目的年份是：{';'.join(desc[:self.num_limit])}"
         elif question_type == 'problem_pos':
             desc = [i['n.name'] for i in answers]
             desc = list(set(desc))
-            subject = answers[0]['m.name']
-            if desc[0] == '':
-                final_answer = f"'{subject}'这道题目的地区未知哦"
+            if len(desc) == 0 or desc[0] == '':
+                final_answer = f"这道题目的地区未知哦"
             else:
+                subject = answers[0]['m.name']
                 final_answer = f"'{subject}'这道题目是{';'.join(desc[:self.num_limit])}的题"
         elif question_type == 'algorithm_explain':
             desc = [f"{i['n.name']}: {i['n.url']}，相关频数: {i['r.frequency']}" for i in answers]

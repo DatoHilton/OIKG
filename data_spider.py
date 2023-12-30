@@ -89,7 +89,7 @@ def wiki_spider():
                 "</div></main>")[0]
         name = html.split('<h1>')[1].split('</h1>')[0]
         htmls.append([url, name, html.lower()])
-        print(f"-----get htmls {cnt}/{len(urls)}-----")
+        # print(f"-----get htmls {cnt}/{len(urls)}-----")
     # print("-----get htmls finished-----")
 
     return htmls
@@ -103,7 +103,7 @@ def spider_main():
         os.makedirs('./data/')
 
     luogu_page_cnt = 0  # 爬取洛谷的页数
-    for page in range(1, 51):
+    for page in range(1, 189):
         try:
             luogu_url = f"https://www.luogu.com.cn/problem/list?page={page}"
             data = luogu_spider(luogu_url)
