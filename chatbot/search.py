@@ -82,8 +82,8 @@ class AnswerSearcher:
                 subject = answers[0]['m.name']
                 final_answer = f"'{subject}'这道题目是{';'.join(desc[:self.num_limit])}的题"
         elif question_type == 'algorithm_explain':
-            desc = [f"{i['n.name']}: {i['n.url']}，相关频数: {i['r.frequency']}" for i in answers]
-            desc = list(set(desc))
+            answers = sorted(answers, key=lambda x: int(x['r.frequency']), reverse=True)
+            desc = [f"{i['n.name']}: {i['n.url']}，相关频数: {i['r.frequency']}" for i in answers[:3]]
             subject = answers[0]['m.name']
             text = '\n' + '\n'.join(desc)
             final_answer = f"算法'{subject}'的相关解析如下：{text}"
